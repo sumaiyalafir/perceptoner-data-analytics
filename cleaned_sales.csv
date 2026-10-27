@@ -1,0 +1,434 @@
+productid,product_name,product_price,number_of_ordered_items,order_status,customer_name,location,latitude,longitude,channel_of_ordering,date,sales_value,week_start
+P00013,Drone,1708.47,1,Delivered,Maria Wolfe,Utah,40.150032,-111.862434,Phone,2024-01-05,1708.47,2024-01-01
+P00016,Drone,1458.91,3,In Process,Kyle Gomez,Connecticut,41.597782,-72.755371,Physical,2024-01-16,4376.7300000000005,2024-01-15
+P00003,Drone,2677.86,2,Delivered,Meredith Robbins,Alaska,61.370716,-152.404419,Website,2024-01-17,5355.72,2024-01-15
+P00021,Drone,1560.64,4,Delivered,Paul Richardson,Oregon,44.572021,-122.070938,Website,2024-01-24,6242.56,2024-01-22
+P00012,Drone,2646.88,1,In Process,Kayla Brown,Massachusetts,42.230171,-71.530106,Website,2024-02-03,2646.88,2024-01-29
+P00003,Drone,1654.17,4,Delivered,Mary Warren,Colorado,39.059811,-105.311104,Mobile App,2024-02-15,6616.68,2024-02-12
+P00014,Drone,2164.51,5,Canceled,Kayla Parks,New Hampshire,43.452492,-71.563896,Website,2024-02-26,10822.550000000001,2024-02-26
+P00022,Drone,2564.92,4,On Hold,Calvin Vaughn,Oklahoma,35.565342,-96.928917,Website,2024-02-27,10259.68,2024-02-26
+P00003,Drone,2132.04,3,On Hold,Mark Perry,Oklahoma,35.565342,-96.928917,Phone,2024-02-28,6396.12,2024-02-26
+P00007,Drone,2339.46,4,Canceled,Mitchell Williams,Rhode Island,41.680893,-71.51178,Physical,2024-03-09,9357.84,2024-03-04
+P00018,Drone,1300.23,5,In Process,Norma Aguilar,Wyoming,42.755966,-107.30249,Phone,2024-03-22,6501.15,2024-03-18
+P00024,Drone,1319.44,2,In Process,Diana Martinez DDS,Georgia,33.040619,-83.643074,Website,2024-04-02,2638.88,2024-04-01
+P00017,Drone,1849.63,3,Canceled,Austin Gordon,Kansas,38.5266,-96.726486,Social Media,2024-04-13,5548.89,2024-04-08
+P00020,Drone,1537.96,1,Canceled,Monique Simmons,Florida,27.766279,-81.686783,Mobile App,2024-04-20,1537.96,2024-04-15
+P00013,Drone,1471.97,4,Delivered,Donna Sampson,Alabama,32.806671,-86.79113,Mobile App,2024-05-03,5887.88,2024-04-29
+P00001,Drone,1158.2,4,In Process,Deborah Richardson,Washington,47.400902,-121.490494,Phone,2024-05-06,4632.8,2024-05-06
+P00024,Drone,1506.14,3,In Process,Travis Morris,New Jersey,40.298904,-74.521011,Phone,2024-05-06,4518.42,2024-05-06
+P00014,Drone,1731.12,3,Canceled,Bryan Dorsey,Georgia,33.040619,-83.643074,Website,2024-05-11,5193.36,2024-05-06
+P00009,Drone,1100.23,3,In Process,James Blackburn,Nebraska,41.12537,-98.268082,Physical,2024-05-16,3300.69,2024-05-13
+P00006,Drone,1953.1,1,Canceled,Hayley Moore,Florida,27.766279,-81.686783,Website,2024-05-25,1953.1,2024-05-20
+P00004,Drone,1084.74,4,In Process,Tanya Robinson,New Hampshire,43.452492,-71.563896,Social Media,2024-06-09,4338.96,2024-06-03
+P00017,Drone,1833.9,2,On Hold,Dr. Mary Wilson,New York,42.165726,-74.948051,Mobile App,2024-06-23,3667.8,2024-06-17
+P00005,Drone,2898.51,5,Delivered,Adam Lopez,Colorado,39.059811,-105.311104,Mobile App,2024-06-26,14492.550000000001,2024-06-24
+P00023,Drone,2076.2,2,Delivered,Paul Green,Florida,27.766279,-81.686783,Physical,2024-07-15,4152.4,2024-07-15
+P00012,Drone,1862.87,2,On Hold,Amber Mooney,Iowa,42.011539,-93.210526,Phone,2024-08-06,3725.74,2024-08-05
+P00013,Drone,1375.4,5,In Process,Heather Mason,Michigan,43.326618,-84.536095,Social Media,2024-08-08,6877.0,2024-08-05
+P00010,Drone,1396.48,1,Delivered,Nicole Hancock,New York,42.165726,-74.948051,Mobile App,2024-08-10,1396.48,2024-08-05
+P00002,Drone,2427.33,2,In Process,Joseph Guzman,Wyoming,42.755966,-107.30249,Physical,2024-08-20,4854.66,2024-08-19
+P00004,Drone,1552.22,1,Canceled,Jodi White,Vermont,44.045876,-72.710686,Website,2024-08-24,1552.22,2024-08-19
+P00013,Drone,2417.11,4,Canceled,Sonya Williams,Michigan,43.326618,-84.536095,Phone,2024-09-02,9668.44,2024-09-02
+P00017,Drone,1382.97,1,On Hold,Kaitlyn Willis,Maine,44.693947,-69.381927,Mobile App,2024-09-03,1382.97,2024-09-02
+P00022,Drone,1502.54,5,On Hold,Vincent Jones,Delaware,39.318523,-75.507141,Mobile App,2024-09-11,7512.7,2024-09-09
+P00002,Drone,2034.34,5,On Hold,Mark Lee,Virginia,37.769337,-78.169968,Phone,2024-09-24,10171.699999999999,2024-09-23
+P00020,Drone,2373.49,3,In Process,Bryan Keller,South Carolina,33.856892,-80.945007,Physical,2024-09-28,7120.469999999999,2024-09-23
+P00020,Drone,2797.61,3,On Hold,Don King,North Carolina,35.630066,-79.806419,Phone,2024-10-01,8392.83,2024-09-30
+P00002,Drone,2349.85,4,On Hold,Ashley Carpenter,Tennessee,35.747845,-86.692345,Physical,2024-10-05,9399.4,2024-09-30
+P00007,Drone,2261.52,1,Canceled,Thomas Pena,Colorado,39.059811,-105.311104,Physical,2024-10-22,2261.52,2024-10-21
+P00007,Drone,2584.75,5,On Hold,Joseph Ross,Virginia,37.769337,-78.169968,Phone,2024-11-03,12923.75,2024-10-28
+P00002,Drone,2947.4,1,In Process,Todd Richards,New Jersey,40.298904,-74.521011,Physical,2024-11-11,2947.4,2024-11-11
+P00022,Drone,2021.56,2,On Hold,Gwendolyn Baker,Rhode Island,41.680893,-71.51178,Mobile App,2024-11-20,4043.12,2024-11-18
+P00008,Drone,2268.43,3,Canceled,Phillip Haley,Florida,27.766279,-81.686783,Physical,2024-11-23,6805.289999999999,2024-11-18
+P00011,Drone,1643.9,4,On Hold,Joanna Lester,New Jersey,40.298904,-74.521011,Physical,2024-11-26,6575.6,2024-11-25
+P00023,Drone,1195.21,2,In Process,Paul Christian,North Dakota,47.528912,-99.784012,Mobile App,2024-11-29,2390.42,2024-11-25
+P00003,Drone,1711.53,3,In Process,Matthew Hudson,Mississippi,32.741646,-89.678696,Physical,2024-01-01,5134.59,2024-01-01
+P00017,Drone,2947.25,2,On Hold,Diane Ortiz,Texas,31.054487,-97.563461,Website,2024-01-02,5894.5,2024-01-01
+P00021,Drone,1666.5,3,Canceled,Kayla Castro,Connecticut,41.597782,-72.755371,Phone,2024-01-02,4999.5,2024-01-01
+P00020,Drone,1133.97,2,Delivered,Daniel Vargas,New Hampshire,43.452492,-71.563896,Mobile App,2024-01-04,2267.94,2024-01-01
+P00019,Drone,2237.44,3,On Hold,Angela Nolan,Colorado,39.059811,-105.311104,Website,2024-01-04,6712.32,2024-01-01
+P00015,Drone,2018.47,2,On Hold,Lorraine Barnett,Maryland,39.063946,-76.802101,Physical,2024-01-05,4036.94,2024-01-01
+P00005,Drone,1337.52,4,On Hold,Pamela Bryan,California,36.116203,-119.681564,Phone,2024-01-06,5350.08,2024-01-01
+P00013,Drone,2915.96,2,On Hold,Megan Miller,Wyoming,42.755966,-107.30249,Phone,2024-01-06,5831.92,2024-01-01
+P00002,Drone,1132.8,4,In Process,Jessica Johnson,Alabama,32.806671,-86.79113,Website,2024-01-07,4531.2,2024-01-01
+P00024,Drone,2540.24,5,On Hold,John Kim,Georgia,33.040619,-83.643074,Mobile App,2024-01-10,12701.199999999999,2024-01-08
+P00014,Drone,1283.17,4,Canceled,Jeanette Freeman,New Mexico,34.840515,-106.248482,Phone,2024-01-11,5132.68,2024-01-08
+P00024,Drone,2912.02,4,In Process,Craig Brown,North Dakota,47.528912,-99.784012,Website,2024-01-11,11648.08,2024-01-08
+P00013,Drone,1931.11,1,In Process,Wesley Barnes,Oregon,44.572021,-122.070938,Social Media,2024-01-12,1931.11,2024-01-08
+P00019,Drone,1626.81,1,On Hold,Nancy Bell,Kentucky,37.66814,-84.670067,Physical,2024-01-13,1626.81,2024-01-08
+P00016,Drone,1246.74,5,In Process,Virginia Miller,Oregon,44.572021,-122.070938,Social Media,2024-01-14,6233.7,2024-01-08
+P00017,Drone,1297.16,5,In Process,Mark Davis,Wisconsin,44.268543,-89.616508,Phone,2024-01-14,6485.8,2024-01-08
+P00010,Drone,1937.9,2,Canceled,Chad Adams,Nebraska,41.12537,-98.268082,Physical,2024-01-15,3875.8,2024-01-15
+P00004,Drone,2016.83,2,On Hold,Haley Clark,Tennessee,35.747845,-86.692345,Phone,2024-01-16,4033.66,2024-01-15
+P00003,Drone,2441.45,1,On Hold,Bonnie Perry MD,Nevada,38.313515,-117.055374,Physical,2024-01-16,2441.45,2024-01-15
+P00005,Drone,1214.13,5,On Hold,Danielle Hernandez,Alaska,61.370716,-152.404419,Phone,2024-01-17,6070.650000000001,2024-01-15
+P00003,Drone,2348.6,2,Delivered,Shawn Ward,Michigan,43.326618,-84.536095,Mobile App,2024-01-17,4697.2,2024-01-15
+P00021,Drone,1249.87,2,In Process,Jennifer Keller,Florida,27.766279,-81.686783,Physical,2024-01-18,2499.74,2024-01-15
+P00020,Drone,2893.07,5,On Hold,Kristen Gardner,Indiana,39.849426,-86.258278,Phone,2024-01-19,14465.35,2024-01-15
+P00002,Drone,1326.77,4,Canceled,Michael Taylor,Arizona,33.729759,-111.431221,Mobile App,2024-01-19,5307.08,2024-01-15
+P00022,Drone,2236.01,1,Delivered,Sarah Chung,Delaware,39.318523,-75.507141,Phone,2024-01-23,2236.01,2024-01-22
+P00015,Drone,1998.16,3,Delivered,Ronald Ramsey,Mississippi,32.741646,-89.678696,Phone,2024-01-23,5994.4800000000005,2024-01-22
+P00002,Drone,2742.14,1,Delivered,Benjamin Vega,Wyoming,42.755966,-107.30249,Website,2024-01-25,2742.14,2024-01-22
+P00001,Drone,2397.79,1,On Hold,Jason Hart,Hawaii,21.094318,-157.498337,Phone,2024-01-25,2397.79,2024-01-22
+P00019,Drone,1192.13,5,Canceled,Corey Klein,Texas,31.054487,-97.563461,Website,2024-01-29,5960.650000000001,2024-01-29
+P00002,Drone,1124.63,5,Delivered,David Vance,Alabama,32.806671,-86.79113,Physical,2024-01-31,5623.150000000001,2024-01-29
+P00022,Drone,1929.88,3,Canceled,Jennifer Hughes,Idaho,44.240459,-114.478828,Physical,2024-02-02,5789.64,2024-01-29
+P00018,Drone,2985.28,3,Canceled,Karen Harvey MD,Connecticut,41.597782,-72.755371,Website,2024-02-02,8955.84,2024-01-29
+P00001,Drone,2207.29,3,On Hold,Levi Smith,Louisiana,31.169546,-91.867805,Phone,2024-02-05,6621.87,2024-02-05
+P00004,Drone,2824.47,2,In Process,Mary Thomas,Oregon,44.572021,-122.070938,Phone,2024-02-07,5648.94,2024-02-05
+P00014,Drone,1185.84,1,Delivered,Angel French,Florida,27.766279,-81.686783,Physical,2024-02-07,1185.84,2024-02-05
+P00018,Drone,2042.76,4,In Process,Jessica Edwards,Minnesota,45.694454,-93.900192,Physical,2024-02-08,8171.04,2024-02-05
+P00004,Drone,2131.99,4,On Hold,Thomas Barry,Maine,44.693947,-69.381927,Mobile App,2024-02-09,8527.96,2024-02-05
+P00021,Drone,1433.52,3,Canceled,Rhonda Randolph,Georgia,33.040619,-83.643074,Physical,2024-02-09,4300.5599999999995,2024-02-05
+P00005,Drone,1639.11,5,In Process,Martin Cisneros,Alabama,32.806671,-86.79113,Website,2024-02-09,8195.55,2024-02-05
+P00007,Drone,1143.35,1,On Hold,George Braun,Delaware,39.318523,-75.507141,Social Media,2024-02-09,1143.35,2024-02-05
+P00015,Drone,1634.8,1,In Process,Samantha Adams,Delaware,39.318523,-75.507141,Mobile App,2024-02-11,1634.8,2024-02-05
+P00005,Drone,2637.51,2,In Process,Mr. Kenneth Wagner,Nebraska,41.12537,-98.268082,Social Media,2024-02-11,5275.02,2024-02-05
+P00005,Drone,1414.59,1,On Hold,Donna Thompson,Louisiana,31.169546,-91.867805,Phone,2024-02-11,1414.59,2024-02-05
+P00022,Drone,2039.67,1,On Hold,Steve Roberts,Alaska,61.370716,-152.404419,Social Media,2024-02-12,2039.67,2024-02-12
+P00015,Drone,1896.56,5,Delivered,Jordan Hall,Idaho,44.240459,-114.478828,Physical,2024-02-13,9482.8,2024-02-12
+P00009,Drone,2635.08,2,Canceled,Janice Anderson,Nevada,38.313515,-117.055374,Social Media,2024-02-13,5270.16,2024-02-12
+P00018,Drone,1481.75,1,In Process,Richard Mccoy,Alabama,32.806671,-86.79113,Phone,2024-02-16,1481.75,2024-02-12
+P00018,Drone,2279.76,5,In Process,Clayton Robinson,Nebraska,41.12537,-98.268082,Phone,2024-02-16,11398.800000000001,2024-02-12
+P00015,Drone,1751.92,3,Canceled,Ashley Lynch,New Hampshire,43.452492,-71.563896,Phone,2024-02-17,5255.76,2024-02-12
+P00023,Drone,1005.6,3,On Hold,Jason Blair,South Carolina,33.856892,-80.945007,Physical,2024-02-18,3016.8,2024-02-12
+P00015,Drone,2058.44,2,On Hold,Benjamin Johnson,Alabama,32.806671,-86.79113,Website,2024-02-20,4116.88,2024-02-19
+P00015,Drone,1907.64,1,On Hold,Kyle Rogers,Arkansas,34.969704,-92.373123,Physical,2024-02-21,1907.64,2024-02-19
+P00019,Drone,1043.54,5,Canceled,Arthur Preston,Vermont,44.045876,-72.710686,Physical,2024-02-21,5217.7,2024-02-19
+P00008,Drone,1258.96,2,Canceled,Carolyn Martin,Hawaii,21.094318,-157.498337,Physical,2024-02-23,2517.92,2024-02-19
+P00005,Drone,1660.21,1,In Process,Jason Phillips,North Dakota,47.528912,-99.784012,Phone,2024-02-23,1660.21,2024-02-19
+P00015,Drone,1027.49,4,Delivered,Danielle Sullivan,Maine,44.693947,-69.381927,Social Media,2024-02-24,4109.96,2024-02-19
+P00006,Drone,2882.38,3,In Process,Joshua Cunningham,West Virginia,38.491226,-80.954456,Phone,2024-02-25,8647.14,2024-02-19
+P00024,Drone,2427.1,4,On Hold,Andrea Sims,Oregon,44.572021,-122.070938,Mobile App,2024-02-25,9708.4,2024-02-19
+P00011,Drone,2776.46,5,Delivered,Christina Cooper,Kentucky,37.66814,-84.670067,Physical,2024-02-26,13882.3,2024-02-26
+P00018,Drone,2449.73,3,Canceled,Kimberly Short,Montana,46.921925,-110.454353,Social Media,2024-02-26,7349.1900000000005,2024-02-26
+P00006,Drone,1759.43,3,In Process,Arthur Hill,Hawaii,21.094318,-157.498337,Mobile App,2024-02-26,5278.29,2024-02-26
+P00005,Drone,1125.6,2,On Hold,Randy Moss,Rhode Island,41.680893,-71.51178,Social Media,2024-02-28,2251.2,2024-02-26
+P00020,Drone,2123.29,5,In Process,Jessica Campbell,Texas,31.054487,-97.563461,Mobile App,2024-02-28,10616.45,2024-02-26
+P00002,Drone,2949.82,1,Canceled,Holly Ramos,North Carolina,35.630066,-79.806419,Website,2024-02-29,2949.82,2024-02-26
+P00009,Drone,1216.27,3,On Hold,Austin Mendoza,Oregon,44.572021,-122.070938,Physical,2024-02-29,3648.81,2024-02-26
+P00017,Drone,1372.17,4,In Process,Brian Martinez,Ohio,40.388783,-82.764915,Mobile App,2024-02-29,5488.68,2024-02-26
+P00003,Drone,2095.71,4,Canceled,Emily Wilson,West Virginia,38.491226,-80.954456,Physical,2024-03-01,8382.84,2024-02-26
+P00016,Drone,2318.8,2,Delivered,Louis Ramos,California,36.116203,-119.681564,Website,2024-03-01,4637.6,2024-02-26
+P00011,Drone,1775.79,4,In Process,Deanna Cannon,Connecticut,41.597782,-72.755371,Mobile App,2024-03-05,7103.16,2024-03-04
+P00020,Drone,2267.39,4,On Hold,Brian Johnson,Delaware,39.318523,-75.507141,Social Media,2024-03-06,9069.56,2024-03-04
+P00005,Drone,1413.94,1,Canceled,Melanie Jones,California,36.116203,-119.681564,Website,2024-03-07,1413.94,2024-03-04
+P00006,Drone,2585.03,4,Delivered,Joseph Chang,Kansas,38.5266,-96.726486,Mobile App,2024-03-10,10340.12,2024-03-04
+P00005,Drone,2847.94,5,On Hold,Aaron Trujillo,Massachusetts,42.230171,-71.530106,Physical,2024-03-10,14239.7,2024-03-04
+P00017,Drone,2743.97,5,In Process,James Adams,Wyoming,42.755966,-107.30249,Mobile App,2024-03-10,13719.849999999999,2024-03-04
+P00006,Drone,2182.19,2,Delivered,Joseph Brooks,Maryland,39.063946,-76.802101,Website,2024-03-10,4364.38,2024-03-04
+P00023,Drone,1368.96,1,Delivered,Hayden Cuevas,West Virginia,38.491226,-80.954456,Mobile App,2024-03-11,1368.96,2024-03-11
+P00015,Drone,1243.92,5,Canceled,Lee Coleman,Texas,31.054487,-97.563461,Social Media,2024-03-11,6219.6,2024-03-11
+P00017,Drone,1459.78,5,On Hold,Philip Long,West Virginia,38.491226,-80.954456,Social Media,2024-03-12,7298.9,2024-03-11
+P00023,Drone,2426.85,4,In Process,Morgan Black,Arkansas,34.969704,-92.373123,Phone,2024-03-12,9707.4,2024-03-11
+P00006,Drone,2340.66,5,On Hold,Julie Morales,Alabama,32.806671,-86.79113,Mobile App,2024-03-12,11703.3,2024-03-11
+P00012,Drone,1168.35,5,In Process,Benjamin White,North Dakota,47.528912,-99.784012,Physical,2024-03-12,5841.75,2024-03-11
+P00017,Drone,1193.9,3,Delivered,Anthony Hansen,Maine,44.693947,-69.381927,Physical,2024-03-14,3581.7000000000003,2024-03-11
+P00023,Drone,1790.85,5,On Hold,Scott Vaughn,Vermont,44.045876,-72.710686,Physical,2024-03-14,8954.25,2024-03-11
+P00011,Drone,2556.96,2,In Process,Joshua Bennett,North Carolina,35.630066,-79.806419,Website,2024-03-14,5113.92,2024-03-11
+P00013,Drone,2569.05,3,Delivered,Casey King,California,36.116203,-119.681564,Mobile App,2024-03-14,7707.150000000001,2024-03-11
+P00024,Drone,1492.33,3,Canceled,Dustin Mullins,Minnesota,45.694454,-93.900192,Social Media,2024-03-15,4476.99,2024-03-11
+P00001,Drone,2460.9,1,Delivered,Gregory Jackson,Iowa,42.011539,-93.210526,Social Media,2024-03-15,2460.9,2024-03-11
+P00012,Drone,1675.99,2,In Process,Lynn Hall,West Virginia,38.491226,-80.954456,Physical,2024-03-16,3351.98,2024-03-11
+P00020,Drone,2904.2,1,On Hold,Emma Phillips,Louisiana,31.169546,-91.867805,Physical,2024-03-17,2904.2,2024-03-11
+P00020,Drone,1108.05,4,Delivered,Daniel Macdonald,Maryland,39.063946,-76.802101,Website,2024-03-20,4432.2,2024-03-18
+P00018,Drone,2701.12,1,On Hold,Nathaniel Long,Mississippi,32.741646,-89.678696,Physical,2024-03-21,2701.12,2024-03-18
+P00004,Drone,1514.5,4,Canceled,Joshua Mendez,Wisconsin,44.268543,-89.616508,Website,2024-03-21,6058.0,2024-03-18
+P00021,Drone,1770.85,4,Canceled,Dylan Andrews,South Dakota,44.299782,-99.438828,Mobile App,2024-03-22,7083.4,2024-03-18
+P00003,Drone,1980.44,5,Canceled,April Smith DDS,Massachusetts,42.230171,-71.530106,Website,2024-03-23,9902.2,2024-03-18
+P00022,Drone,1886.59,1,Canceled,Shane Sanchez,Arizona,33.729759,-111.431221,Mobile App,2024-03-24,1886.59,2024-03-18
+P00013,Drone,2115.6,1,Delivered,Scott Garza,New Jersey,40.298904,-74.521011,Phone,2024-03-24,2115.6,2024-03-18
+P00018,Drone,1995.94,2,Canceled,Amy Simpson,Colorado,39.059811,-105.311104,Phone,2024-03-25,3991.88,2024-03-25
+P00015,Drone,2600.04,2,In Process,Michelle Bowman,Connecticut,41.597782,-72.755371,Website,2024-03-26,5200.08,2024-03-25
+P00023,Drone,2528.26,5,Delivered,Brittany Glenn,Texas,31.054487,-97.563461,Social Media,2024-03-27,12641.300000000001,2024-03-25
+P00016,Drone,2139.67,3,Delivered,Ronald Chan,Nevada,38.313515,-117.055374,Physical,2024-03-28,6419.01,2024-03-25
+P00014,Drone,1899.5,4,Canceled,Diane Parker,Oregon,44.572021,-122.070938,Physical,2024-03-30,7598.0,2024-03-25
+P00013,Drone,2660.57,5,On Hold,Patrick Johnson,Vermont,44.045876,-72.710686,Physical,2024-03-30,13302.85,2024-03-25
+P00009,Drone,1872.11,2,Canceled,Glenn Clark,New Jersey,40.298904,-74.521011,Phone,2024-03-31,3744.22,2024-03-25
+P00018,Drone,1007.18,1,Delivered,Zachary Harris,Nebraska,41.12537,-98.268082,Social Media,2024-03-31,1007.18,2024-03-25
+P00001,Drone,1057.65,1,In Process,Carla Booth,Pennsylvania,40.590752,-77.209755,Phone,2024-03-31,1057.65,2024-03-25
+P00009,Drone,2744.25,2,In Process,Mr. William Richards MD,Idaho,44.240459,-114.478828,Physical,2024-04-01,5488.5,2024-04-01
+P00011,Drone,2547.04,1,Delivered,Timothy Lawson,Hawaii,21.094318,-157.498337,Physical,2024-04-03,2547.04,2024-04-01
+P00023,Drone,2116.94,2,Canceled,Cassandra Davis,Indiana,39.849426,-86.258278,Physical,2024-04-04,4233.88,2024-04-01
+P00017,Drone,2186.71,5,In Process,Melissa Guerrero,Illinois,40.349457,-88.986137,Physical,2024-04-05,10933.55,2024-04-01
+P00009,Drone,2018.63,2,Canceled,Mr. Edwin Crawford,Nevada,38.313515,-117.055374,Social Media,2024-04-05,4037.26,2024-04-01
+P00022,Drone,2917.55,5,Canceled,Madeline Evans,Oregon,44.572021,-122.070938,Phone,2024-04-06,14587.75,2024-04-01
+P00020,Drone,2086.22,2,Canceled,Brent Fuller,Washington,47.400902,-121.490494,Mobile App,2024-04-06,4172.44,2024-04-01
+P00003,Drone,1546.95,5,On Hold,Michael Knox,Oregon,44.572021,-122.070938,Mobile App,2024-04-07,7734.75,2024-04-01
+P00003,Drone,2104.04,2,On Hold,Justin Johnson,Wisconsin,44.268543,-89.616508,Website,2024-04-07,4208.08,2024-04-01
+P00001,Drone,1441.17,3,Delivered,Denise Ellis,Connecticut,41.597782,-72.755371,Physical,2024-04-07,4323.51,2024-04-01
+P00014,Drone,1698.53,4,In Process,Joshua Rodriguez,New York,42.165726,-74.948051,Physical,2024-04-10,6794.12,2024-04-08
+P00007,Drone,1842.18,4,Canceled,Erin Mitchell,Iowa,42.011539,-93.210526,Website,2024-04-12,7368.72,2024-04-08
+P00004,Drone,1568.27,4,Delivered,Katelyn Nichols,Missouri,38.456085,-92.288368,Website,2024-04-13,6273.08,2024-04-08
+P00001,Drone,2242.58,3,Delivered,Oscar Moore,Virginia,37.769337,-78.169968,Mobile App,2024-04-16,6727.74,2024-04-15
+P00019,Drone,1694.23,3,Delivered,Julie White,Florida,27.766279,-81.686783,Website,2024-04-17,5082.6900000000005,2024-04-15
+P00013,Drone,2298.75,1,Canceled,Jennifer Lewis,Wyoming,42.755966,-107.30249,Social Media,2024-04-18,2298.75,2024-04-15
+P00011,Drone,1956.59,1,In Process,Caitlin Miller,Hawaii,21.094318,-157.498337,Social Media,2024-04-18,1956.59,2024-04-15
+P00023,Drone,2620.56,3,In Process,Melanie Martinez,New Mexico,34.840515,-106.248482,Website,2024-04-19,7861.68,2024-04-15
+P00024,Drone,2283.8,3,Canceled,Jessica Obrien,Florida,27.766279,-81.686783,Website,2024-04-20,6851.400000000001,2024-04-15
+P00005,Drone,1972.14,3,Canceled,Evelyn Young,Arizona,33.729759,-111.431221,Physical,2024-04-21,5916.42,2024-04-15
+P00012,Drone,2395.72,3,In Process,James Black Jr.,North Dakota,47.528912,-99.784012,Website,2024-04-24,7187.16,2024-04-22
+P00020,Drone,2207.65,4,Delivered,Alexander Williams,Kentucky,37.66814,-84.670067,Social Media,2024-04-25,8830.6,2024-04-22
+P00012,Drone,2357.55,2,In Process,Jonathan Tucker,Florida,27.766279,-81.686783,Website,2024-04-25,4715.1,2024-04-22
+P00021,Drone,2295.08,5,Canceled,Madison Cooper,North Dakota,47.528912,-99.784012,Phone,2024-04-30,11475.4,2024-04-29
+P00013,Drone,2054.06,2,On Hold,Keith Zamora,Wisconsin,44.268543,-89.616508,Website,2024-04-30,4108.12,2024-04-29
+P00021,Drone,2172.12,3,On Hold,Jennifer Arellano,Montana,46.921925,-110.454353,Mobile App,2024-04-30,6516.36,2024-04-29
+P00015,Drone,2719.97,3,In Process,Thomas Harrison,Virginia,37.769337,-78.169968,Website,2024-04-30,8159.91,2024-04-29
+P00004,Drone,1332.95,1,In Process,Timothy Johnson,Alaska,61.370716,-152.404419,Phone,2024-05-01,1332.95,2024-04-29
+P00014,Drone,2891.71,3,In Process,Aaron Mccoy,Idaho,44.240459,-114.478828,Phone,2024-05-04,8675.130000000001,2024-04-29
+P00019,Drone,2876.62,3,On Hold,Mrs. Rebecca Hernandez,North Dakota,47.528912,-99.784012,Mobile App,2024-05-05,8629.86,2024-04-29
+P00020,Drone,2884.43,5,On Hold,Rebecca Acosta,Illinois,40.349457,-88.986137,Website,2024-05-05,14422.15,2024-04-29
+P00019,Drone,2908.17,4,Delivered,Christine Nunez,Utah,40.150032,-111.862434,Website,2024-05-05,11632.68,2024-04-29
+P00020,Drone,2010.67,4,In Process,Daniel Hall Jr.,Pennsylvania,40.590752,-77.209755,Social Media,2024-05-06,8042.68,2024-05-06
+P00008,Drone,2027.58,4,In Process,Jeffrey Chase,North Dakota,47.528912,-99.784012,Phone,2024-05-06,8110.32,2024-05-06
+P00011,Drone,2630.89,2,On Hold,Allison Larson,Mississippi,32.741646,-89.678696,Phone,2024-05-08,5261.78,2024-05-06
+P00017,Drone,2759.56,1,Canceled,Mr. Brian Martinez,North Carolina,35.630066,-79.806419,Website,2024-05-10,2759.56,2024-05-06
+P00022,Drone,2354.59,2,Canceled,Donna Atkinson,Indiana,39.849426,-86.258278,Phone,2024-05-10,4709.18,2024-05-06
+P00019,Drone,2073.4,1,On Hold,Robert Alvarado,Tennessee,35.747845,-86.692345,Physical,2024-05-11,2073.4,2024-05-06
+P00012,Drone,2587.15,5,In Process,Drew Adams,Tennessee,35.747845,-86.692345,Mobile App,2024-05-11,12935.75,2024-05-06
+P00003,Drone,1253.05,5,Canceled,Heather Lewis PhD,Missouri,38.456085,-92.288368,Website,2024-05-11,6265.25,2024-05-06
+P00005,Drone,2051.9,4,Delivered,Matthew Friedman,North Carolina,35.630066,-79.806419,Mobile App,2024-05-12,8207.6,2024-05-06
+P00012,Drone,1173.51,5,On Hold,David Lawrence,Colorado,39.059811,-105.311104,Physical,2024-05-12,5867.55,2024-05-06
+P00023,Drone,1409.2,2,In Process,Julie Patton,Wyoming,42.755966,-107.30249,Website,2024-05-13,2818.4,2024-05-13
+P00012,Drone,2780.5,4,On Hold,Jamie Mata,Minnesota,45.694454,-93.900192,Website,2024-05-13,11122.0,2024-05-13
+P00019,Drone,2708.22,3,Canceled,Debbie Bradford,Louisiana,31.169546,-91.867805,Physical,2024-05-14,8124.66,2024-05-13
+P00014,Drone,2086.81,4,Delivered,David Cummings,Virginia,37.769337,-78.169968,Mobile App,2024-05-15,8347.24,2024-05-13
+P00011,Drone,2102.11,2,Canceled,Christine Lucero,Missouri,38.456085,-92.288368,Website,2024-05-16,4204.22,2024-05-13
+P00004,Drone,1668.47,4,Canceled,Kimberly Garcia,Kentucky,37.66814,-84.670067,Phone,2024-05-18,6673.88,2024-05-13
+P00008,Drone,2948.92,3,On Hold,James Baxter,Kansas,38.5266,-96.726486,Physical,2024-05-19,8846.76,2024-05-13
+P00018,Drone,1574.45,4,On Hold,Allen Stevens,Arkansas,34.969704,-92.373123,Phone,2024-05-24,6297.8,2024-05-20
+P00004,Drone,1576.38,3,Canceled,James Williams,Maine,44.693947,-69.381927,Social Media,2024-05-25,4729.14,2024-05-20
+P00009,Drone,1201.66,5,Delivered,Linda Hughes,Washington,47.400902,-121.490494,Phone,2024-05-25,6008.3,2024-05-20
+P00021,Drone,2938.69,2,Canceled,Allison Wright,New Jersey,40.298904,-74.521011,Website,2024-05-25,5877.38,2024-05-20
+P00001,Drone,1380.78,4,In Process,Joshua Ellison,West Virginia,38.491226,-80.954456,Website,2024-05-26,5523.12,2024-05-20
+P00003,Drone,2027.4,4,On Hold,Christine Ramirez,Ohio,40.388783,-82.764915,Social Media,2024-05-26,8109.6,2024-05-20
+P00007,Drone,1845.2,5,On Hold,Andrew Bowers,Alaska,61.370716,-152.404419,Mobile App,2024-05-26,9226.0,2024-05-20
+P00008,Drone,1068.82,2,On Hold,Chad Robinson,Alaska,61.370716,-152.404419,Social Media,2024-05-27,2137.64,2024-05-27
+P00014,Drone,2308.39,4,Canceled,Amanda Parker,Vermont,44.045876,-72.710686,Phone,2024-05-27,9233.56,2024-05-27
+P00003,Drone,2106.67,1,Canceled,Patrick Johnson,Montana,46.921925,-110.454353,Social Media,2024-05-27,2106.67,2024-05-27
+P00024,Drone,2300.65,1,Canceled,Ryan Williams,South Dakota,44.299782,-99.438828,Physical,2024-05-28,2300.65,2024-05-27
+P00017,Drone,1839.78,4,Canceled,Crystal Jacobs,Mississippi,32.741646,-89.678696,Phone,2024-05-29,7359.12,2024-05-27
+P00003,Drone,2973.63,3,On Hold,Lori Gomez,Arizona,33.729759,-111.431221,Social Media,2024-05-29,8920.89,2024-05-27
+P00019,Drone,2552.17,5,On Hold,Heather James,Montana,46.921925,-110.454353,Website,2024-05-29,12760.85,2024-05-27
+P00004,Drone,2318.47,3,On Hold,Stacy Wolf,Rhode Island,41.680893,-71.51178,Mobile App,2024-05-29,6955.41,2024-05-27
+P00016,Drone,2562.98,5,Delivered,Jenny George,Maryland,39.063946,-76.802101,Mobile App,2024-06-01,12814.9,2024-05-27
+P00018,Drone,2291.26,5,On Hold,Linda Mendez,Montana,46.921925,-110.454353,Website,2024-06-01,11456.300000000001,2024-05-27
+P00022,Drone,1081.79,2,On Hold,Cynthia Moore,Arizona,33.729759,-111.431221,Social Media,2024-06-01,2163.58,2024-05-27
+P00003,Drone,2014.01,5,On Hold,William Hernandez,Rhode Island,41.680893,-71.51178,Social Media,2024-06-03,10070.05,2024-06-03
+P00014,Drone,1908.68,3,On Hold,Mr. Patrick Morales,California,36.116203,-119.681564,Website,2024-06-04,5726.04,2024-06-03
+P00010,Drone,1344.48,2,Canceled,Kevin Carr,Vermont,44.045876,-72.710686,Website,2024-06-05,2688.96,2024-06-03
+P00006,Drone,2257.16,1,Delivered,Robert Martin,Rhode Island,41.680893,-71.51178,Physical,2024-06-05,2257.16,2024-06-03
+P00011,Drone,1465.65,4,In Process,Michael White,Ohio,40.388783,-82.764915,Website,2024-06-06,5862.6,2024-06-03
+P00001,Drone,2884.91,4,On Hold,Amy Smith,Oklahoma,35.565342,-96.928917,Mobile App,2024-06-07,11539.64,2024-06-03
+P00014,Drone,1219.4,2,In Process,Michael Chapman,West Virginia,38.491226,-80.954456,Website,2024-06-07,2438.8,2024-06-03
+P00020,Drone,1390.48,4,On Hold,Robert Gibbs,North Dakota,47.528912,-99.784012,Phone,2024-06-08,5561.92,2024-06-03
+P00018,Drone,1233.31,3,Delivered,Benjamin Bowen,Idaho,44.240459,-114.478828,Social Media,2024-06-11,3699.93,2024-06-10
+P00007,Drone,1875.84,4,In Process,James Hernandez,Rhode Island,41.680893,-71.51178,Phone,2024-06-11,7503.36,2024-06-10
+P00002,Drone,1635.18,2,On Hold,Christine Rogers,Florida,27.766279,-81.686783,Mobile App,2024-06-13,3270.36,2024-06-10
+P00005,Drone,1957.76,3,In Process,Susan Mccann,Montana,46.921925,-110.454353,Mobile App,2024-06-14,5873.28,2024-06-10
+P00005,Drone,2187.48,3,In Process,Samantha Campbell,Washington,47.400902,-121.490494,Mobile App,2024-06-14,6562.4400000000005,2024-06-10
+P00022,Drone,2979.36,3,Canceled,Lindsey Henderson,Colorado,39.059811,-105.311104,Physical,2024-06-14,8938.08,2024-06-10
+P00018,Drone,1326.27,1,On Hold,Derrick Hall,Hawaii,21.094318,-157.498337,Mobile App,2024-06-14,1326.27,2024-06-10
+P00012,Drone,1211.07,3,Delivered,Lori Hood,New Jersey,40.298904,-74.521011,Physical,2024-06-15,3633.21,2024-06-10
+P00017,Drone,1801.25,5,On Hold,Brett Morris PhD,Wisconsin,44.268543,-89.616508,Physical,2024-06-15,9006.25,2024-06-10
+P00018,Drone,1051.24,3,Delivered,Joseph Woodward,Virginia,37.769337,-78.169968,Mobile App,2024-06-16,3153.7200000000003,2024-06-10
+P00017,Drone,1452.41,3,Delivered,Sean Valencia,Utah,40.150032,-111.862434,Mobile App,2024-06-17,4357.2300000000005,2024-06-17
+P00016,Drone,2343.4,2,Delivered,Heather Arroyo,Maine,44.693947,-69.381927,Website,2024-06-17,4686.8,2024-06-17
+P00024,Drone,1900.42,2,Delivered,Michael Fisher,Rhode Island,41.680893,-71.51178,Mobile App,2024-06-18,3800.84,2024-06-17
+P00024,Drone,1462.0,1,In Process,Kimberly Andrade,Georgia,33.040619,-83.643074,Mobile App,2024-06-18,1462.0,2024-06-17
+P00014,Drone,2821.9,2,Delivered,Craig Ritter,Colorado,39.059811,-105.311104,Social Media,2024-06-18,5643.8,2024-06-17
+P00017,Drone,1478.72,2,Canceled,Bradley Harrison,Oregon,44.572021,-122.070938,Phone,2024-06-20,2957.44,2024-06-17
+P00015,Drone,1231.02,4,On Hold,Jill Maldonado MD,Colorado,39.059811,-105.311104,Website,2024-06-22,4924.08,2024-06-17
+P00007,Drone,2235.92,2,In Process,Whitney Summers,North Dakota,47.528912,-99.784012,Mobile App,2024-06-24,4471.84,2024-06-24
+P00002,Drone,1942.5,1,Canceled,Rickey Jenkins,Colorado,39.059811,-105.311104,Website,2024-06-25,1942.5,2024-06-24
+P00017,Drone,2371.97,3,Delivered,Lisa Schneider,Illinois,40.349457,-88.986137,Mobile App,2024-06-25,7115.91,2024-06-24
+P00005,Drone,2462.71,2,Canceled,Shawn Sullivan,Kentucky,37.66814,-84.670067,Physical,2024-06-26,4925.42,2024-06-24
+P00012,Drone,1001.16,5,On Hold,Kimberly Cuevas,Mississippi,32.741646,-89.678696,Phone,2024-06-26,5005.8,2024-06-24
+P00006,Drone,2095.4,4,On Hold,Joanna Smith,Virginia,37.769337,-78.169968,Phone,2024-06-27,8381.6,2024-06-24
+P00002,Drone,2024.81,5,In Process,Daniel Moore MD,Oklahoma,35.565342,-96.928917,Phone,2024-06-29,10124.05,2024-06-24
+P00022,Drone,2745.72,1,Canceled,Jason Carroll,California,36.116203,-119.681564,Phone,2024-06-29,2745.72,2024-06-24
+P00021,Drone,1598.51,4,Canceled,Chad Miller,Mississippi,32.741646,-89.678696,Mobile App,2024-06-30,6394.04,2024-06-24
+P00023,Drone,2159.41,2,On Hold,Timothy Cruz,Virginia,37.769337,-78.169968,Physical,2024-07-01,4318.82,2024-07-01
+P00013,Drone,2577.0,3,In Process,Dana Cooper,West Virginia,38.491226,-80.954456,Website,2024-07-02,7731.0,2024-07-01
+P00016,Drone,2326.19,2,On Hold,Carlos Leonard,North Dakota,47.528912,-99.784012,Website,2024-07-02,4652.38,2024-07-01
+P00013,Drone,1996.29,1,Delivered,David Johnson,Texas,31.054487,-97.563461,Mobile App,2024-07-02,1996.29,2024-07-01
+P00015,Drone,1266.36,4,On Hold,Claire Hernandez,Maine,44.693947,-69.381927,Physical,2024-07-03,5065.44,2024-07-01
+P00013,Drone,2585.44,1,Delivered,Miranda Figueroa,North Carolina,35.630066,-79.806419,Phone,2024-07-05,2585.44,2024-07-01
+P00010,Drone,2547.52,1,On Hold,Ellen Trevino,Missouri,38.456085,-92.288368,Social Media,2024-07-07,2547.52,2024-07-01
+P00008,Drone,1845.4,5,Delivered,Tasha Moore,Georgia,33.040619,-83.643074,Physical,2024-07-08,9227.0,2024-07-08
+P00017,Drone,1612.06,3,Delivered,Ryan Moore,Arkansas,34.969704,-92.373123,Mobile App,2024-07-09,4836.18,2024-07-08
+P00005,Drone,2531.98,1,Delivered,Stacy Norton,Maryland,39.063946,-76.802101,Website,2024-07-09,2531.98,2024-07-08
+P00019,Drone,1852.65,5,Delivered,Rebecca Powell,Wisconsin,44.268543,-89.616508,Mobile App,2024-07-10,9263.25,2024-07-08
+P00022,Drone,2095.02,3,Canceled,Carol Conley,Minnesota,45.694454,-93.900192,Phone,2024-07-10,6285.0599999999995,2024-07-08
+P00008,Drone,1403.34,1,Delivered,Zachary Larson,Nevada,38.313515,-117.055374,Physical,2024-07-12,1403.34,2024-07-08
+P00010,Drone,1606.8,1,In Process,Steven Ward,Wisconsin,44.268543,-89.616508,Phone,2024-07-17,1606.8,2024-07-15
+P00023,Drone,2094.4,4,On Hold,Randy Jordan,New Hampshire,43.452492,-71.563896,Phone,2024-07-18,8377.6,2024-07-15
+P00012,Drone,2796.57,5,On Hold,Erin Blanchard,Maine,44.693947,-69.381927,Website,2024-07-19,13982.85,2024-07-15
+P00017,Drone,1134.79,1,Canceled,Xavier Newman,Arkansas,34.969704,-92.373123,Website,2024-07-22,1134.79,2024-07-22
+P00022,Drone,1181.07,3,Canceled,Michelle Parker,Massachusetts,42.230171,-71.530106,Social Media,2024-07-23,3543.21,2024-07-22
+P00021,Drone,2412.08,2,In Process,Ashley Rivera,Missouri,38.456085,-92.288368,Mobile App,2024-07-23,4824.16,2024-07-22
+P00017,Drone,2651.83,4,Delivered,Juan Kennedy,Delaware,39.318523,-75.507141,Social Media,2024-07-24,10607.32,2024-07-22
+P00009,Drone,2121.31,3,Canceled,William Montoya,Nevada,38.313515,-117.055374,Social Media,2024-07-25,6363.93,2024-07-22
+P00022,Drone,2551.11,2,On Hold,Austin Flores,Iowa,42.011539,-93.210526,Phone,2024-07-26,5102.22,2024-07-22
+P00011,Drone,1299.62,4,Delivered,Matthew Cox,Pennsylvania,40.590752,-77.209755,Social Media,2024-07-27,5198.48,2024-07-22
+P00009,Drone,1222.58,4,Delivered,Michael Benton,Massachusetts,42.230171,-71.530106,Social Media,2024-07-28,4890.32,2024-07-22
+P00016,Drone,2275.79,3,On Hold,Matthew Stone,Kansas,38.5266,-96.726486,Phone,2024-07-28,6827.37,2024-07-22
+P00021,Drone,2806.73,3,In Process,Jonathan Cook,Ohio,40.388783,-82.764915,Phone,2024-07-29,8420.19,2024-07-29
+P00006,Drone,2712.34,4,In Process,Robert Davidson,Michigan,43.326618,-84.536095,Mobile App,2024-07-29,10849.36,2024-07-29
+P00016,Drone,2775.05,3,On Hold,Mrs. Nicole Gibbs,Tennessee,35.747845,-86.692345,Social Media,2024-07-30,8325.150000000001,2024-07-29
+P00007,Drone,2461.96,5,Canceled,John Nelson,West Virginia,38.491226,-80.954456,Mobile App,2024-07-31,12309.8,2024-07-29
+P00017,Drone,1829.81,4,In Process,Michelle Christensen,California,36.116203,-119.681564,Social Media,2024-08-01,7319.24,2024-07-29
+P00008,Drone,2461.64,1,In Process,Lori Anderson,Washington,47.400902,-121.490494,Mobile App,2024-08-01,2461.64,2024-07-29
+P00013,Drone,2158.2,5,In Process,Trevor Smith,Wyoming,42.755966,-107.30249,Social Media,2024-08-02,10791.0,2024-07-29
+P00023,Drone,2366.91,2,In Process,Carla Cameron,Wyoming,42.755966,-107.30249,Phone,2024-08-03,4733.82,2024-07-29
+P00002,Drone,2794.47,5,Canceled,Mrs. Terri Hall,Pennsylvania,40.590752,-77.209755,Physical,2024-08-03,13972.349999999999,2024-07-29
+P00008,Drone,2310.9,4,On Hold,Tyler Bush,Rhode Island,41.680893,-71.51178,Website,2024-08-04,9243.6,2024-07-29
+P00021,Drone,2491.63,3,Delivered,Mitchell Johnson,Illinois,40.349457,-88.986137,Physical,2024-08-06,7474.89,2024-08-05
+P00002,Drone,2412.63,5,Delivered,Jill Wilson,Vermont,44.045876,-72.710686,Mobile App,2024-08-06,12063.150000000001,2024-08-05
+P00011,Drone,2777.79,4,Canceled,Rebekah Hernandez,South Dakota,44.299782,-99.438828,Phone,2024-08-07,11111.16,2024-08-05
+P00012,Drone,1128.61,3,Canceled,Jeremy Sutton,Maine,44.693947,-69.381927,Phone,2024-08-07,3385.83,2024-08-05
+P00019,Drone,2586.51,5,Canceled,Jacob Nielsen,Delaware,39.318523,-75.507141,Physical,2024-08-07,12932.550000000001,2024-08-05
+P00004,Drone,1214.63,4,On Hold,Richard Flores Jr.,Michigan,43.326618,-84.536095,Social Media,2024-08-08,4858.52,2024-08-05
+P00011,Drone,1552.67,4,Canceled,Samantha Bruce,New Mexico,34.840515,-106.248482,Phone,2024-08-09,6210.68,2024-08-05
+P00023,Drone,1233.22,2,Delivered,Sherry Mora,Nevada,38.313515,-117.055374,Physical,2024-08-10,2466.44,2024-08-05
+P00014,Drone,2253.8,3,In Process,Jeremy Williams,Ohio,40.388783,-82.764915,Phone,2024-08-11,6761.400000000001,2024-08-05
+P00023,Drone,2990.17,3,Canceled,Morgan Delacruz,North Dakota,47.528912,-99.784012,Social Media,2024-08-12,8970.51,2024-08-12
+P00004,Drone,1912.22,5,Canceled,Melissa Russo,Minnesota,45.694454,-93.900192,Website,2024-08-15,9561.1,2024-08-12
+P00018,Drone,2769.81,5,Delivered,Jill Love,West Virginia,38.491226,-80.954456,Phone,2024-08-16,13849.05,2024-08-12
+P00022,Drone,1539.46,4,In Process,Gregory Perry,Hawaii,21.094318,-157.498337,Mobile App,2024-08-17,6157.84,2024-08-12
+P00017,Drone,1974.46,1,Canceled,Sue Johnson,Nevada,38.313515,-117.055374,Mobile App,2024-08-18,1974.46,2024-08-12
+P00003,Drone,1297.4,3,In Process,Megan Arnold,Vermont,44.045876,-72.710686,Phone,2024-08-18,3892.2000000000003,2024-08-12
+P00007,Drone,2650.8,4,Canceled,Christina Cook,Virginia,37.769337,-78.169968,Mobile App,2024-08-18,10603.2,2024-08-12
+P00008,Drone,2209.88,2,Delivered,Douglas Mosley,Maryland,39.063946,-76.802101,Phone,2024-08-18,4419.76,2024-08-12
+P00010,Drone,1796.94,2,In Process,Olivia Walker,Oklahoma,35.565342,-96.928917,Website,2024-08-19,3593.88,2024-08-19
+P00003,Drone,1793.46,3,On Hold,Ryan Stephens,Ohio,40.388783,-82.764915,Mobile App,2024-08-21,5380.38,2024-08-19
+P00012,Drone,1102.11,5,On Hold,Amy Estes,Delaware,39.318523,-75.507141,Physical,2024-08-22,5510.549999999999,2024-08-19
+P00002,Drone,2258.17,3,On Hold,Jennifer Townsend,Montana,46.921925,-110.454353,Mobile App,2024-08-25,6774.51,2024-08-19
+P00013,Drone,1570.53,1,On Hold,Samantha Davis,Wisconsin,44.268543,-89.616508,Website,2024-08-26,1570.53,2024-08-26
+P00008,Drone,2870.12,5,In Process,Thomas Duncan,Maine,44.693947,-69.381927,Phone,2024-08-27,14350.599999999999,2024-08-26
+P00016,Drone,2394.25,3,On Hold,James Howard,Minnesota,45.694454,-93.900192,Website,2024-08-29,7182.75,2024-08-26
+P00016,Drone,1918.5,3,Canceled,Michelle Sanchez,North Dakota,47.528912,-99.784012,Website,2024-08-31,5755.5,2024-08-26
+P00006,Drone,2473.69,4,Canceled,Steven Franklin,Washington,47.400902,-121.490494,Mobile App,2024-09-04,9894.76,2024-09-02
+P00009,Drone,1343.29,1,In Process,Jennifer Burgess,South Carolina,33.856892,-80.945007,Physical,2024-09-07,1343.29,2024-09-02
+P00011,Drone,1943.55,5,Canceled,Mrs. Beth Allison,New Jersey,40.298904,-74.521011,Social Media,2024-09-08,9717.75,2024-09-02
+P00003,Drone,2192.88,3,Canceled,Robert Ross,South Carolina,33.856892,-80.945007,Website,2024-09-08,6578.64,2024-09-02
+P00013,Drone,2925.07,1,Canceled,Jared Lang,Rhode Island,41.680893,-71.51178,Mobile App,2024-09-09,2925.07,2024-09-09
+P00010,Drone,2575.38,2,Canceled,David Chan,Missouri,38.456085,-92.288368,Social Media,2024-09-09,5150.76,2024-09-09
+P00023,Drone,2402.47,4,Delivered,Harry Carter,Florida,27.766279,-81.686783,Website,2024-09-10,9609.88,2024-09-09
+P00023,Drone,1631.02,4,Canceled,Kathryn Lawrence,New Hampshire,43.452492,-71.563896,Mobile App,2024-09-11,6524.08,2024-09-09
+P00017,Drone,2334.19,3,Canceled,Stephanie Valdez,Illinois,40.349457,-88.986137,Mobile App,2024-09-11,7002.57,2024-09-09
+P00021,Drone,1580.4,4,On Hold,Lauren Jackson,Michigan,43.326618,-84.536095,Physical,2024-09-11,6321.6,2024-09-09
+P00012,Drone,1815.59,1,On Hold,Michelle Monroe,Nebraska,41.12537,-98.268082,Phone,2024-09-12,1815.59,2024-09-09
+P00001,Drone,2055.19,5,On Hold,Emily Ross,Iowa,42.011539,-93.210526,Website,2024-09-13,10275.95,2024-09-09
+P00024,Drone,1709.15,4,On Hold,Paul Martinez,Michigan,43.326618,-84.536095,Social Media,2024-09-14,6836.6,2024-09-09
+P00002,Drone,2485.84,2,Delivered,Anthony Martinez,Florida,27.766279,-81.686783,Phone,2024-09-14,4971.68,2024-09-09
+P00005,Drone,2208.83,1,In Process,Jerry Randall,Missouri,38.456085,-92.288368,Website,2024-09-14,2208.83,2024-09-09
+P00023,Drone,1521.32,1,In Process,Dennis Walker,New Jersey,40.298904,-74.521011,Website,2024-09-14,1521.32,2024-09-09
+P00003,Drone,1188.81,1,Canceled,Lisa Allen,West Virginia,38.491226,-80.954456,Mobile App,2024-09-16,1188.81,2024-09-16
+P00018,Drone,1630.19,1,On Hold,Mary Lawson,Maryland,39.063946,-76.802101,Phone,2024-09-17,1630.19,2024-09-16
+P00016,Drone,1954.9,2,In Process,Deborah Pratt,Texas,31.054487,-97.563461,Phone,2024-09-18,3909.8,2024-09-16
+P00010,Drone,1663.54,2,In Process,Steven Shelton,Florida,27.766279,-81.686783,Phone,2024-09-19,3327.08,2024-09-16
+P00010,Drone,2331.53,5,Canceled,Dennis Doyle,Wisconsin,44.268543,-89.616508,Social Media,2024-09-19,11657.650000000001,2024-09-16
+P00024,Drone,1799.77,2,On Hold,Stephanie Lopez,Mississippi,32.741646,-89.678696,Physical,2024-09-19,3599.54,2024-09-16
+P00012,Drone,1457.26,3,Canceled,William Krause,Ohio,40.388783,-82.764915,Social Media,2024-09-20,4371.78,2024-09-16
+P00002,Drone,1167.64,2,Canceled,Tyler White,Indiana,39.849426,-86.258278,Website,2024-09-20,2335.28,2024-09-16
+P00017,Drone,1197.54,1,Canceled,Steven Castillo,California,36.116203,-119.681564,Social Media,2024-09-20,1197.54,2024-09-16
+P00001,Drone,2916.25,3,In Process,Cathy Williams,South Carolina,33.856892,-80.945007,Social Media,2024-09-20,8748.75,2024-09-16
+P00006,Drone,1181.38,4,Delivered,Thomas Gonzales,Virginia,37.769337,-78.169968,Website,2024-09-21,4725.52,2024-09-16
+P00005,Drone,2130.28,1,In Process,Mary George,Massachusetts,42.230171,-71.530106,Mobile App,2024-09-21,2130.28,2024-09-16
+P00009,Drone,1456.13,1,In Process,Aaron Duffy,Connecticut,41.597782,-72.755371,Mobile App,2024-09-22,1456.13,2024-09-16
+P00001,Drone,2394.52,1,On Hold,Mr. Curtis Harrell,Iowa,42.011539,-93.210526,Physical,2024-09-22,2394.52,2024-09-16
+P00021,Drone,1332.37,5,On Hold,David Ford,New Mexico,34.840515,-106.248482,Physical,2024-09-22,6661.849999999999,2024-09-16
+P00012,Drone,2871.37,4,On Hold,Mr. Steven Nelson,Wyoming,42.755966,-107.30249,Mobile App,2024-09-22,11485.48,2024-09-16
+P00008,Drone,2113.56,1,In Process,Phillip Davis,North Carolina,35.630066,-79.806419,Physical,2024-09-23,2113.56,2024-09-23
+P00018,Drone,1042.42,2,In Process,Miranda Davis,Colorado,39.059811,-105.311104,Mobile App,2024-09-23,2084.84,2024-09-23
+P00005,Drone,1889.98,1,In Process,Marc Oneill,Ohio,40.388783,-82.764915,Physical,2024-09-23,1889.98,2024-09-23
+P00024,Drone,2790.68,4,On Hold,Andrea Johnson,Arizona,33.729759,-111.431221,Social Media,2024-09-23,11162.72,2024-09-23
+P00012,Drone,2591.67,3,On Hold,Michael Farmer,Kansas,38.5266,-96.726486,Website,2024-09-23,7775.01,2024-09-23
+P00010,Drone,2871.0,5,Canceled,Dennis Adams,Maine,44.693947,-69.381927,Phone,2024-09-25,14355.0,2024-09-23
+P00007,Drone,1626.35,2,On Hold,David White,Oregon,44.572021,-122.070938,Physical,2024-09-26,3252.7,2024-09-23
+P00005,Drone,2539.85,4,Delivered,Eric Jordan,Alabama,32.806671,-86.79113,Physical,2024-09-27,10159.4,2024-09-23
+P00018,Drone,1061.02,1,On Hold,Debra Carey,Georgia,33.040619,-83.643074,Website,2024-09-28,1061.02,2024-09-23
+P00002,Drone,1230.1,3,Canceled,Jennifer Young,Rhode Island,41.680893,-71.51178,Website,2024-09-30,3690.2999999999997,2024-09-30
+P00022,Drone,1306.64,2,Delivered,Beth Howell,New Hampshire,43.452492,-71.563896,Physical,2024-09-30,2613.28,2024-09-30
+P00010,Drone,1419.2,4,Delivered,Jessica Williams,Vermont,44.045876,-72.710686,Physical,2024-09-30,5676.8,2024-09-30
+P00015,Drone,1823.88,5,On Hold,Kevin Ball,Maryland,39.063946,-76.802101,Mobile App,2024-10-02,9119.400000000001,2024-09-30
+P00008,Drone,2670.1,1,Canceled,Paul Payne,Massachusetts,42.230171,-71.530106,Phone,2024-10-02,2670.1,2024-09-30
+P00004,Drone,2098.57,1,Delivered,Gerald Hall,Maine,44.693947,-69.381927,Website,2024-10-03,2098.57,2024-09-30
+P00014,Drone,1104.2,5,Delivered,Michelle Anderson,Nebraska,41.12537,-98.268082,Physical,2024-10-03,5521.0,2024-09-30
+P00001,Drone,2828.11,1,Canceled,Kevin King,California,36.116203,-119.681564,Mobile App,2024-10-03,2828.11,2024-09-30
+P00004,Drone,1391.85,5,In Process,Scott Wright,Hawaii,21.094318,-157.498337,Physical,2024-10-03,6959.25,2024-09-30
+P00003,Drone,2310.52,5,Canceled,Martin Brooks,South Dakota,44.299782,-99.438828,Social Media,2024-10-04,11552.6,2024-09-30
+P00019,Drone,1734.91,5,On Hold,Samantha Perez,Arizona,33.729759,-111.431221,Physical,2024-10-04,8674.550000000001,2024-09-30
+P00010,Drone,2176.11,5,On Hold,Laura Richards,Oklahoma,35.565342,-96.928917,Phone,2024-10-05,10880.550000000001,2024-09-30
+P00019,Drone,2479.23,2,Delivered,Donna Reyes,Indiana,39.849426,-86.258278,Phone,2024-10-05,4958.46,2024-09-30
+P00018,Drone,2987.64,3,Delivered,Gina Romero,Arkansas,34.969704,-92.373123,Social Media,2024-10-07,8962.92,2024-10-07
+P00013,Drone,1719.73,4,On Hold,Brian Martinez,Florida,27.766279,-81.686783,Mobile App,2024-10-07,6878.92,2024-10-07
+P00016,Drone,1025.27,4,Delivered,Jessica Rodriguez,Colorado,39.059811,-105.311104,Website,2024-10-07,4101.08,2024-10-07
+P00007,Drone,1603.97,5,In Process,Shannon Aguirre,Louisiana,31.169546,-91.867805,Physical,2024-10-08,8019.85,2024-10-07
+P00014,Drone,2474.31,3,Delivered,Latoya Dorsey,Mississippi,32.741646,-89.678696,Social Media,2024-10-08,7422.93,2024-10-07
+P00007,Drone,1175.22,2,Canceled,Brian Robinson,Pennsylvania,40.590752,-77.209755,Website,2024-10-09,2350.44,2024-10-07
+P00011,Drone,2590.29,1,In Process,Morgan Randolph,Vermont,44.045876,-72.710686,Website,2024-10-09,2590.29,2024-10-07
+P00012,Drone,1390.83,3,Delivered,Samantha Simon,Missouri,38.456085,-92.288368,Website,2024-10-10,4172.49,2024-10-07
+P00003,Drone,2638.26,1,Delivered,Kelsey Manning,Mississippi,32.741646,-89.678696,Physical,2024-10-11,2638.26,2024-10-07
+P00002,Drone,1672.29,5,Delivered,Jill Kaufman,Mississippi,32.741646,-89.678696,Phone,2024-10-11,8361.45,2024-10-07
+P00002,Drone,2811.46,1,Canceled,Brian Kelley,Nebraska,41.12537,-98.268082,Physical,2024-10-11,2811.46,2024-10-07
+P00015,Drone,2487.8,2,On Hold,Lydia Norris,Arizona,33.729759,-111.431221,Website,2024-10-12,4975.6,2024-10-07
+P00016,Drone,1489.8,3,On Hold,Danielle Edwards,Massachusetts,42.230171,-71.530106,Social Media,2024-10-12,4469.4,2024-10-07
+P00016,Drone,2094.74,2,On Hold,Robin Smith,Florida,27.766279,-81.686783,Physical,2024-10-13,4189.48,2024-10-07
+P00008,Drone,1384.07,2,Canceled,Alejandra Moore,Maine,44.693947,-69.381927,Website,2024-10-14,2768.14,2024-10-14
+P00001,Drone,1287.97,3,Canceled,Ryan White,Colorado,39.059811,-105.311104,Website,2024-10-15,3863.91,2024-10-14
+P00008,Drone,2923.7,3,In Process,Lisa Johnson,Wyoming,42.755966,-107.30249,Website,2024-10-15,8771.099999999999,2024-10-14
+P00006,Drone,2192.98,2,Delivered,William Hines,Maine,44.693947,-69.381927,Physical,2024-10-15,4385.96,2024-10-14
+P00008,Drone,1857.35,5,In Process,Jason Wilson,Mississippi,32.741646,-89.678696,Mobile App,2024-10-16,9286.75,2024-10-14
+P00016,Drone,1498.7,4,Delivered,Michael Hines,Oregon,44.572021,-122.070938,Physical,2024-10-18,5994.8,2024-10-14
+P00019,Drone,2353.09,3,Delivered,Jillian Lopez,Rhode Island,41.680893,-71.51178,Phone,2024-10-19,7059.27,2024-10-14
+P00011,Drone,1898.06,5,In Process,Randy Jordan,Connecticut,41.597782,-72.755371,Physical,2024-10-19,9490.3,2024-10-14
+P00008,Drone,1251.13,5,Delivered,Kim Wiley,Massachusetts,42.230171,-71.530106,Mobile App,2024-10-19,6255.650000000001,2024-10-14
+P00013,Drone,1749.31,2,In Process,Jonathon Sullivan,Pennsylvania,40.590752,-77.209755,Website,2024-10-19,3498.62,2024-10-14
+P00024,Drone,1842.86,1,In Process,Judy Knight,Wisconsin,44.268543,-89.616508,Website,2024-10-20,1842.86,2024-10-14
+P00020,Drone,1734.03,3,In Process,Michael King,Nebraska,41.12537,-98.268082,Mobile App,2024-10-20,5202.09,2024-10-14
+P00016,Drone,1483.32,2,In Process,Nancy Turner,Oklahoma,35.565342,-96.928917,Phone,2024-10-21,2966.64,2024-10-21
+P00008,Drone,2459.56,3,In Process,Patricia Gomez,Colorado,39.059811,-105.311104,Phone,2024-10-21,7378.68,2024-10-21
+P00001,Drone,1282.69,1,Canceled,Jane Murphy,South Dakota,44.299782,-99.438828,Phone,2024-10-23,1282.69,2024-10-21
+P00014,Drone,2309.07,3,In Process,Aaron Sutton,Maine,44.693947,-69.381927,Phone,2024-10-23,6927.210000000001,2024-10-21
+P00020,Drone,1812.9,4,Canceled,Charles Schaefer,Washington,47.400902,-121.490494,Mobile App,2024-10-23,7251.6,2024-10-21
+P00013,Drone,1921.8,3,Canceled,Douglas Wilson,Nevada,38.313515,-117.055374,Physical,2024-10-24,5765.4,2024-10-21
+P00007,Drone,1318.94,3,In Process,Rachel Weiss,Vermont,44.045876,-72.710686,Physical,2024-10-25,3956.82,2024-10-21
+P00003,Drone,2135.47,1,On Hold,Gregory Adkins,Missouri,38.456085,-92.288368,Physical,2024-10-26,2135.47,2024-10-21
+P00022,Drone,2627.77,4,Delivered,Christine Hayes,Nevada,38.313515,-117.055374,Website,2024-10-26,10511.08,2024-10-21
+P00015,Drone,1484.29,2,On Hold,Richard Gutierrez,Pennsylvania,40.590752,-77.209755,Phone,2024-10-27,2968.58,2024-10-21
+P00024,Drone,2343.78,2,Delivered,Joanne Boyd,Louisiana,31.169546,-91.867805,Physical,2024-10-27,4687.56,2024-10-21
+P00021,Drone,2019.84,3,Delivered,Dana Peterson,Kentucky,37.66814,-84.670067,Phone,2024-10-29,6059.5199999999995,2024-10-28
+P00006,Drone,1923.61,4,In Process,Sarah Park,Minnesota,45.694454,-93.900192,Physical,2024-10-30,7694.44,2024-10-28
+P00002,Drone,1467.24,1,On Hold,Rachel Church,West Virginia,38.491226,-80.954456,Social Media,2024-11-01,1467.24,2024-10-28
+P00007,Drone,1528.39,3,Canceled,Elizabeth Howard,Arizona,33.729759,-111.431221,Website,2024-11-01,4585.17,2024-10-28
+P00022,Drone,1426.03,1,Canceled,Christopher Shepherd,Missouri,38.456085,-92.288368,Phone,2024-11-02,1426.03,2024-10-28
+P00015,Drone,2295.94,2,In Process,Joshua Bailey,Utah,40.150032,-111.862434,Website,2024-11-03,4591.88,2024-10-28
+P00019,Drone,2277.69,3,On Hold,Jacqueline Peterson,Wisconsin,44.268543,-89.616508,Phone,2024-11-04,6833.07,2024-11-04
+P00022,Drone,2106.59,3,On Hold,Brian Medina,Connecticut,41.597782,-72.755371,Phone,2024-11-04,6319.77,2024-11-04
+P00018,Drone,2351.27,5,Canceled,Scott Wright,Minnesota,45.694454,-93.900192,Social Media,2024-11-05,11756.35,2024-11-04
+P00011,Drone,1216.36,1,Canceled,Jeremiah Kim,Connecticut,41.597782,-72.755371,Phone,2024-11-06,1216.36,2024-11-04
+P00012,Drone,1136.75,1,In Process,Julie Estrada,Iowa,42.011539,-93.210526,Physical,2024-11-06,1136.75,2024-11-04
+P00018,Drone,1868.52,1,Delivered,Lucas Buckley,California,36.116203,-119.681564,Website,2024-11-08,1868.52,2024-11-04
+P00023,Drone,2892.45,5,In Process,Marilyn Lang,Maryland,39.063946,-76.802101,Physical,2024-11-08,14462.25,2024-11-04
+P00022,Drone,1049.46,1,Delivered,Gabriel Smith,Nebraska,41.12537,-98.268082,Phone,2024-11-09,1049.46,2024-11-04
+P00002,Drone,1937.02,1,In Process,William Joyce,Massachusetts,42.230171,-71.530106,Website,2024-11-10,1937.02,2024-11-04
+P00021,Drone,1774.52,3,Canceled,Abigail Allen,Missouri,38.456085,-92.288368,Website,2024-11-10,5323.5599999999995,2024-11-04
+P00014,Drone,1911.48,3,On Hold,John Willis,Virginia,37.769337,-78.169968,Website,2024-11-10,5734.4400000000005,2024-11-04
+P00020,Drone,2772.31,3,Delivered,Robert Francis,Illinois,40.349457,-88.986137,Social Media,2024-11-12,8316.93,2024-11-11
+P00006,Drone,1310.28,3,In Process,Steven Haynes,Colorado,39.059811,-105.311104,Physical,2024-11-14,3930.84,2024-11-11
+P00020,Drone,1330.33,5,In Process,Benjamin Mccall,Florida,27.766279,-81.686783,Mobile App,2024-11-16,6651.65,2024-11-11
+P00021,Drone,1604.01,1,On Hold,Ryan Jimenez,New Mexico,34.840515,-106.248482,Social Media,2024-11-17,1604.01,2024-11-11
+P00003,Drone,1295.03,5,On Hold,Jessica Knight,Minnesota,45.694454,-93.900192,Phone,2024-11-19,6475.15,2024-11-18
+P00001,Drone,1134.1,3,On Hold,Frederick Cannon,Wisconsin,44.268543,-89.616508,Phone,2024-11-20,3402.2999999999997,2024-11-18
+P00016,Drone,2042.2,2,In Process,Robert Chavez,Massachusetts,42.230171,-71.530106,Phone,2024-11-23,4084.4,2024-11-18
+P00002,Drone,1860.2,1,In Process,Todd Wilson,Ohio,40.388783,-82.764915,Mobile App,2024-11-23,1860.2,2024-11-18
+P00013,Drone,2465.61,2,On Hold,Michael Baker,New York,42.165726,-74.948051,Mobile App,2024-11-23,4931.22,2024-11-18
+P00020,Drone,2352.94,3,On Hold,Natalie James,Texas,31.054487,-97.563461,Phone,2024-11-24,7058.82,2024-11-18
+P00011,Drone,2027.64,4,Canceled,George Brown,Delaware,39.318523,-75.507141,Phone,2024-11-24,8110.56,2024-11-18
+P00020,Drone,2742.31,3,Delivered,Jason Gardner,Georgia,33.040619,-83.643074,Mobile App,2024-11-26,8226.93,2024-11-25
+P00007,Drone,1273.01,5,Canceled,Jessica Smith,Alaska,61.370716,-152.404419,Physical,2024-11-27,6365.05,2024-11-25
+P00008,Drone,1290.98,5,On Hold,Michael Austin,North Dakota,47.528912,-99.784012,Physical,2024-11-27,6454.9,2024-11-25
+P00012,Drone,2979.84,3,Canceled,Rebecca Adams,Georgia,33.040619,-83.643074,Phone,2024-11-28,8939.52,2024-11-25
+P00012,Drone,1647.78,4,In Process,Marie Johnson,Virginia,37.769337,-78.169968,Physical,2024-11-28,6591.12,2024-11-25

@@ -1,0 +1,549 @@
+Drone ID,Drone Model,Battery Remaining (%),Actual Carry Weight (kg),Max Carry Weight (kg),Wind Speed (m/s),Obstacles Encountered,Flight Status,risk_points,risk_level
+D001,FlyHigh 300,85,2.5,5.0,3.5,No,Completed,0,Low
+D002,Inspecta X,68,8.0,15.0,6.2,Yes,Completed,1,Medium
+D003,CropMaster,40,18.0,20.0,7.8,Yes,Completed,1,Medium
+D004,SnapShot Mini,92,0.5,1.0,2.1,No,Completed,0,Low
+D005,Watcher Pro,55,3.0,7.0,4.9,No,Completed,0,Low
+D006,MapMaker Z,78,6.0,10.0,3.1,No,Completed,0,Low
+D007,Guardian SR,62,5.0,12.0,5.5,Yes,Completed,1,Medium
+D008,CineDrone X,70,10.0,18.0,4.2,No,Completed,0,Low
+D009,AirProbe 1,88,1.2,2.0,2.7,No,Completed,0,Low
+D010,StockChecker,75,1.5,3.0,1.5,No,Completed,0,Low
+D011,SwiftWing,95,1.0,2.0,2.9,No,Completed,0,Low
+D012,ViewMax 500,60,4.5,8.0,5.8,Yes,Completed,1,Medium
+D013,Agri Scout,80,0.8,1.5,3.3,No,Completed,0,Low
+D014,SkyLens,88,0.6,1.2,2.5,No,Completed,0,Low
+D015,VoltGuard,50,5.0,9.0,7.1,Yes,Completed,1,Medium
+D016,TrafficEye,72,2.8,6.0,4.5,No,Completed,0,Low
+D017,BladeChecker,45,9.0,16.0,8.5,Yes,Completed,1,Medium
+D018,SiteScan,81,7.5,11.0,2.8,No,Completed,0,Low
+D019,EventFlyer,90,1.0,1.8,3.9,No,Completed,0,Low
+D020,LongHaul 400,58,4.0,10.0,5.1,No,Completed,0,Low
+D021,PipePatrol,73,7.0,14.0,6.8,Yes,Completed,1,Medium
+D022,FarmPilot,82,1.3,2.5,3.7,No,Completed,0,Low
+D023,NatureWatch,65,0.7,1.5,4.1,Yes,Completed,1,Medium
+D024,FirstResponder,52,6.0,13.0,5.9,Yes,Completed,1,Medium
+D025,StudioShot,98,0.4,1.0,1.9,No,Completed,0,Low
+D026,FlyHigh 300,70,6.0,5.0,4.0,No,Aborted,2,High
+D028,CropMaster,35,25.0,20.0,8.1,Yes,Landed Unexpectedly,3,High
+D030,Watcher Pro,60,3.5,7.0,4.7,No,Completed,0,Low
+D031,MapMaker Z,88,6.8,10.0,3.0,No,Completed,0,Low
+D032,Guardian SR,70,5.5,12.0,5.8,Yes,Completed,1,Medium
+D033,CineDrone X,65,19.0,18.0,4.5,No,Aborted,2,High
+D034,AirProbe 1,95,1.0,2.0,2.5,No,Completed,0,Low
+D035,StockChecker,80,2.0,3.0,1.2,No,Completed,0,Low
+D036,SwiftWing,98,1.3,2.0,3.1,No,Completed,0,Low
+D037,ViewMax 500,55,4.0,8.0,6.0,Yes,Completed,1,Medium
+D038,Agri Scout,85,0.9,1.5,3.5,No,Completed,0,Low
+D039,SkyLens,91,0.7,1.2,2.3,No,Completed,0,Low
+D040,VoltGuard,48,5.2,9.0,7.5,Yes,Completed,1,Medium
+D041,SwiftWing,91,0.9,2.0,2.8,No,Completed,0,Low
+D042,ViewMax 500,63,5.2,8.0,5.1,Yes,Completed,1,Medium
+D043,CropMaster,48,16.0,20.0,7.0,No,Completed,0,Low
+D044,SnapShot Mini,95,0.3,1.0,1.9,No,Completed,0,Low
+D045,Watcher Pro,58,4.1,7.0,4.5,No,Completed,0,Low
+D046,MapMaker Z,79,7.3,10.0,3.2,No,Completed,0,Low
+D047,Guardian SR,65,4.8,12.0,5.3,Yes,Completed,1,Medium
+D048,CineDrone X,72,11.5,18.0,4.0,No,Completed,0,Low
+D049,AirProbe 1,89,0.9,2.0,2.5,No,Completed,0,Low
+D050,StockChecker,77,1.8,3.0,1.3,No,Completed,0,Low
+D051,SwiftWing,93,1.2,2.0,2.7,No,Completed,0,Low
+D052,SnapShot Mini,90,0.5,1.0,2.1,No,Completed,0,Low
+D053,CropMaster,46,16.8,20.0,7.1,Yes,Completed,1,Medium
+D054,FlyHigh 300,86,2.8,5.0,3.4,No,Completed,0,Low
+D055,SnapShot Mini,97,0.6,1.0,2.4,No,Completed,0,Low
+D056,ViewMax 500,61,4.3,8.0,5.7,Yes,Completed,1,Medium
+D057,CropMaster,43,17.2,20.0,7.6,No,Completed,0,Low
+D058,FlyHigh 300,89,2.1,5.0,3.1,No,Completed,0,Low
+D059,SnapShot Mini,94,0.4,1.0,2.2,No,Completed,0,Low
+D060,ViewMax 500,67,5.1,8.0,5.2,Yes,Completed,1,Medium
+D061,SwiftWing,96,1.5,2.0,2.8,No,Completed,0,Low
+D062,SnapShot Mini,91,0.7,1.0,2.5,No,Completed,0,Low
+D063,CropMaster,41,17.8,20.0,7.4,Yes,Completed,1,Medium
+D064,FlyHigh 300,87,2.6,5.0,3.3,No,Completed,0,Low
+D065,SnapShot Mini,99,0.2,1.0,2.0,No,Completed,0,Low
+D066,ViewMax 500,63,4.7,8.0,5.9,Yes,Completed,1,Medium
+D067,CropMaster,39,18.5,20.0,7.9,Yes,Completed,1,Medium
+D068,FlyHigh 300,84,2.9,5.0,3.6,No,Completed,0,Low
+D069,SnapShot Mini,92,0.8,1.0,2.6,No,Completed,0,Low
+D070,ViewMax 500,69,5.3,8.0,5.4,Yes,Completed,1,Medium
+D071,VoltGuard,52,5.0,9.0,6.8,Yes,Completed,1,Medium
+D072,TrafficEye,75,3.1,6.0,4.2,No,Completed,0,Low
+D073,BladeChecker,40,8.5,16.0,8.0,Yes,Completed,1,Medium
+D075,EventFlyer,92,0.8,1.8,3.7,No,Completed,0,Low
+D076,LongHaul 400,60,3.5,10.0,4.8,No,Completed,0,Low
+D077,PipePatrol,78,6.5,14.0,6.5,Yes,Completed,1,Medium
+D078,FarmPilot,87,1.1,2.5,3.9,No,Completed,0,Low
+D079,NatureWatch,68,0.6,1.5,4.3,Yes,Completed,1,Medium
+D080,FirstResponder,55,5.9,13.0,5.7,Yes,Completed,1,Medium
+D081,StudioShot,96,0.5,1.0,2.1,No,Completed,0,Low
+D083,Inspecta X,71,9.1,15.0,5.3,Yes,Completed,1,Medium
+D084,CropMaster,38,22.0,20.0,7.5,Yes,Aborted,3,High
+D086,Watcher Pro,62,3.0,7.0,4.9,No,Completed,0,Low
+D087,MapMaker Z,81,6.5,10.0,3.5,No,Completed,0,Low
+D088,Guardian SR,67,5.1,12.0,5.6,Yes,Completed,1,Medium
+D089,CineDrone X,78,20.0,18.0,4.3,No,Landed Unexpectedly,2,High
+D090,AirProbe 1,90,1.1,2.0,2.6,No,Completed,0,Low
+D091,StockChecker,73,1.9,3.0,1.4,No,Completed,0,Low
+D092,SwiftWing,95,1.0,2.0,2.9,No,Completed,0,Low
+D093,ViewMax 500,60,4.5,8.0,5.8,Yes,Completed,1,Medium
+D094,Agri Scout,80,0.8,1.5,3.3,No,Completed,0,Low
+D095,SkyLens,88,0.6,1.2,2.5,No,Completed,0,Low
+D096,VoltGuard,50,5.0,9.0,7.1,Yes,Completed,1,Medium
+D097,TrafficEye,72,2.8,6.0,4.5,No,Completed,0,Low
+D098,BladeChecker,45,9.0,16.0,8.5,Yes,Completed,1,Medium
+D099,SiteScan,81,7.5,11.0,2.8,No,Completed,0,Low
+D100,EventFlyer,90,1.0,1.8,3.9,No,Completed,0,Low
+D101,LongHaul 400,58,4.0,10.0,5.1,No,Completed,0,Low
+D102,PipePatrol,73,7.0,14.0,6.8,Yes,Completed,1,Medium
+D103,FarmPilot,82,1.3,2.5,3.7,No,Completed,0,Low
+D104,NatureWatch,65,0.7,1.5,4.1,Yes,Completed,1,Medium
+D105,FirstResponder,52,6.0,13.0,5.9,Yes,Completed,1,Medium
+D106,StudioShot,98,0.4,1.0,1.9,No,Completed,0,Low
+D107,SwiftWing,91,0.9,2.0,2.8,No,Completed,0,Low
+D108,ViewMax 500,63,5.2,8.0,5.1,Yes,Completed,1,Medium
+D109,CropMaster,48,16.0,20.0,7.0,No,Completed,0,Low
+D110,SnapShot Mini,95,0.3,1.0,1.9,No,Completed,0,Low
+D111,Watcher Pro,58,4.1,7.0,4.5,No,Completed,0,Low
+D112,MapMaker Z,79,7.3,10.0,3.2,No,Completed,0,Low
+D113,Guardian SR,65,4.8,12.0,5.3,Yes,Completed,1,Medium
+D114,CineDrone X,72,11.5,18.0,4.0,No,Completed,0,Low
+D115,AirProbe 1,89,0.9,2.0,2.5,No,Completed,0,Low
+D116,StockChecker,77,1.8,3.0,1.3,No,Completed,0,Low
+D117,SwiftWing,93,1.2,2.0,2.7,No,Completed,0,Low
+D118,SnapShot Mini,90,0.5,1.0,2.1,No,Completed,0,Low
+D119,CropMaster,46,16.8,20.0,7.1,Yes,Completed,1,Medium
+D120,FlyHigh 300,86,2.8,5.0,3.4,No,Completed,0,Low
+D121,SnapShot Mini,97,0.6,1.0,2.4,No,Completed,0,Low
+D122,ViewMax 500,61,4.3,8.0,5.7,Yes,Completed,1,Medium
+D123,CropMaster,43,17.2,20.0,7.6,No,Completed,0,Low
+D124,FlyHigh 300,89,2.1,5.0,3.1,No,Completed,0,Low
+D125,SnapShot Mini,94,0.4,1.0,2.2,No,Completed,0,Low
+D126,ViewMax 500,67,5.1,8.0,5.2,Yes,Completed,1,Medium
+D127,SwiftWing,96,1.5,2.0,2.8,No,Completed,0,Low
+D128,SnapShot Mini,91,0.7,1.0,2.5,No,Completed,0,Low
+D129,CropMaster,41,17.8,20.0,7.4,Yes,Completed,1,Medium
+D130,FlyHigh 300,87,2.6,5.0,3.3,No,Completed,0,Low
+D131,SnapShot Mini,99,0.2,1.0,2.0,No,Completed,0,Low
+D132,ViewMax 500,63,4.7,8.0,5.9,Yes,Completed,1,Medium
+D133,CropMaster,39,18.5,20.0,7.9,Yes,Completed,1,Medium
+D134,FlyHigh 300,84,2.9,5.0,3.6,No,Completed,0,Low
+D135,SnapShot Mini,92,0.8,1.0,2.6,No,Completed,0,Low
+D136,VoltGuard,57,4.8,9.0,7.2,Yes,Completed,1,Medium
+D137,TrafficEye,70,2.9,6.0,4.0,No,Completed,0,Low
+D138,BladeChecker,43,9.5,16.0,8.3,Yes,Completed,1,Medium
+D139,SiteScan,80,7.2,11.0,3.0,No,Completed,0,Low
+D140,EventFlyer,94,0.9,1.8,3.8,No,Completed,0,Low
+D141,FlyHigh 300,88,2.1,5.0,3.2,No,Completed,0,Low
+D142,SnapShot Mini,93,0.4,1.0,2.0,No,Completed,0,Low
+D143,CropMaster,45,17.5,20.0,7.3,No,Completed,0,Low
+D144,SwiftWing,90,1.2,2.0,2.9,No,Completed,0,Low
+D145,SnapShot Mini,96,0.6,1.0,2.3,No,Completed,0,Low
+D146,ViewMax 500,65,5.8,8.0,5.0,Yes,Completed,1,Medium
+D147,CropMaster,42,19.0,20.0,7.8,Yes,Completed,1,Medium
+D148,FlyHigh 300,85,2.5,5.0,3.0,No,Completed,0,Low
+D149,SnapShot Mini,98,0.3,1.0,2.1,No,Completed,0,Low
+D150,ViewMax 500,68,4.9,8.0,5.5,Yes,Completed,1,Medium
+D151,SwiftWing,92,1.3,2.0,2.9,No,Completed,0,Low
+D152,SnapShot Mini,94,0.5,1.0,2.3,No,Completed,0,Low
+D153,CropMaster,47,17.1,20.0,7.2,No,Completed,0,Low
+D154,SwiftWing,89,1.1,2.0,2.6,No,Completed,0,Low
+D155,SnapShot Mini,95,0.7,1.0,2.1,No,Completed,0,Low
+D156,ViewMax 500,64,5.5,8.0,5.4,Yes,Completed,1,Medium
+D157,CropMaster,41,18.8,20.0,7.5,Yes,Completed,1,Medium
+D158,FlyHigh 300,87,2.3,5.0,3.2,No,Completed,0,Low
+D159,SnapShot Mini,97,0.2,1.0,2.2,No,Completed,0,Low
+D160,ViewMax 500,69,4.6,8.0,5.7,Yes,Completed,1,Medium
+D161,SwiftWing,95,1.4,2.0,2.7,No,Completed,0,Low
+D162,SnapShot Mini,92,0.8,1.0,2.4,No,Completed,0,Low
+D163,CropMaster,44,17.5,20.0,7.3,Yes,Completed,1,Medium
+D164,FlyHigh 300,88,2.7,5.0,3.4,No,Completed,0,Low
+D165,SnapShot Mini,98,0.3,1.0,2.1,No,Completed,0,Low
+D166,ViewMax 500,62,4.9,8.0,5.8,Yes,Completed,1,Medium
+D167,CropMaster,40,18.2,20.0,7.6,Yes,Completed,1,Medium
+D168,FlyHigh 300,85,2.2,5.0,3.5,No,Completed,0,Low
+D169,SnapShot Mini,93,0.6,1.0,2.3,No,Completed,0,Low
+D170,ViewMax 500,68,5.2,8.0,5.5,Yes,Completed,1,Medium
+D171,VoltGuard,55,5.1,9.0,6.9,Yes,Completed,1,Medium
+D172,TrafficEye,78,3.0,6.0,4.1,No,Completed,0,Low
+D173,BladeChecker,42,8.8,16.0,8.2,Yes,Completed,1,Medium
+D174,SiteScan,85,7.3,11.0,3.1,No,Completed,0,Low
+D175,EventFlyer,91,0.9,1.8,3.8,No,Completed,0,Low
+D176,LongHaul 400,62,3.8,10.0,4.9,No,Completed,0,Low
+D177,PipePatrol,80,6.8,14.0,6.7,Yes,Completed,1,Medium
+D178,FarmPilot,88,1.2,2.5,4.0,No,Completed,0,Low
+D179,NatureWatch,70,0.7,1.5,4.5,Yes,Completed,1,Medium
+D180,FirstResponder,58,6.2,13.0,5.8,Yes,Completed,1,Medium
+D181,StudioShot,95,0.6,1.0,2.0,No,Completed,0,Low
+D182,FlyHigh 300,89,2.3,5.0,3.3,No,Completed,0,Low
+D183,SnapShot Mini,92,0.5,1.0,2.1,No,Completed,0,Low
+D184,CropMaster,46,17.8,20.0,7.5,No,Completed,0,Low
+D185,SwiftWing,91,1.1,2.0,2.8,No,Completed,0,Low
+D186,SnapShot Mini,94,0.7,1.0,2.2,No,Completed,0,Low
+D187,ViewMax 500,63,5.3,8.0,5.6,Yes,Completed,1,Medium
+D188,CropMaster,44,18.2,20.0,7.7,Yes,Completed,1,Medium
+D189,FlyHigh 300,86,2.6,5.0,3.1,No,Completed,0,Low
+D058,FlyHigh 300,89,2.1,5.0,3.1,No,Completed,0,Low
+D190,SnapShot Mini,97,0.4,1.0,2.3,No,Completed,0,Low
+D191,ViewMax 500,70,4.8,8.0,5.3,Yes,Completed,1,Medium
+D192,SwiftWing,94,1.2,2.0,2.9,No,Completed,0,Low
+D193,SnapShot Mini,93,0.6,1.0,2.6,No,Completed,0,Low
+D194,CropMaster,42,17.9,20.0,7.1,Yes,Completed,1,Medium
+D195,FlyHigh 300,85,2.8,5.0,3.5,No,Completed,0,Low
+D196,SnapShot Mini,96,0.4,1.0,2.1,No,Completed,0,Low
+D197,ViewMax 500,65,4.5,8.0,5.8,Yes,Completed,1,Medium
+D198,CropMaster,40,18.8,20.0,8.0,Yes,Completed,1,Medium
+D199,FlyHigh 300,88,2.1,5.0,3.7,No,Completed,0,Low
+D200,SnapShot Mini,91,0.7,1.0,2.7,No,Completed,0,Low
+D201,ViewMax 500,67,5.4,8.0,5.4,Yes,Completed,1,Medium
+D202,VoltGuard,53,5.2,9.0,7.0,Yes,Completed,1,Medium
+D203,TrafficEye,76,3.2,6.0,4.3,No,Completed,0,Low
+D204,BladeChecker,41,8.9,16.0,8.1,Yes,Completed,1,Medium
+D205,SiteScan,84,7.1,11.0,3.0,No,Completed,0,Low
+D206,EventFlyer,93,0.9,1.8,3.9,No,Completed,0,Low
+D008,CineDrone X,70,10.0,18.0,4.2,No,Completed,0,Low
+D009,AirProbe 1,88,1.2,2.0,2.7,No,Completed,0,Low
+D010,StockChecker,75,1.5,3.0,1.5,No,Completed,0,Low
+D011,SwiftWing,95,1.0,2.0,2.9,No,Completed,0,Low
+D012,ViewMax 500,60,4.5,8.0,5.8,Yes,Completed,1,Medium
+D013,Agri Scout,80,0.8,1.5,3.3,No,Completed,0,Low
+D014,SkyLens,88,0.6,1.2,2.5,No,Completed,0,Low
+D015,VoltGuard,50,5.0,9.0,7.1,Yes,Completed,1,Medium
+D207,LongHaul 400,61,3.6,10.0,5.0,No,Completed,0,Low
+D208,PipePatrol,79,6.9,14.0,6.6,Yes,Completed,1,Medium
+D209,FarmPilot,87,1.2,2.5,3.8,No,Completed,0,Low
+D210,NatureWatch,69,0.8,1.5,4.4,Yes,Completed,1,Medium
+D211,FirstResponder,56,6.1,13.0,5.9,Yes,Completed,1,Medium
+D212,StudioShot,94,0.7,1.0,2.1,No,Completed,0,Low
+D213,FlyHigh 300,87,2.4,5.0,3.4,No,Completed,0,Low
+D214,SnapShot Mini,91,0.6,1.0,2.2,No,Completed,0,Low
+D215,CropMaster,44,17.6,20.0,7.4,No,Completed,0,Low
+D216,SwiftWing,88,1.3,2.0,2.7,No,Completed,0,Low
+D217,SnapShot Mini,95,0.8,1.0,2.3,No,Completed,0,Low
+D218,ViewMax 500,66,5.6,8.0,5.5,Yes,Completed,1,Medium
+D219,CropMaster,43,18.5,20.0,7.8,Yes,Completed,1,Medium
+D220,FlyHigh 300,87,2.2,5.0,3.2,No,Completed,0,Low
+D221,SnapShot Mini,99,0.3,1.0,2.1,No,Completed,0,Low
+D222,ViewMax 500,71,4.7,8.0,5.4,Yes,Completed,1,Medium
+D223,SwiftWing,93,1.4,2.0,2.8,No,Completed,0,Low
+D224,SnapShot Mini,90,0.9,1.0,2.5,No,Completed,0,Low
+D225,CropMaster,45,17.7,20.0,7.3,Yes,Completed,1,Medium
+D226,FlyHigh 300,86,2.5,5.0,3.5,No,Completed,0,Low
+D227,SnapShot Mini,97,0.2,1.0,2.2,No,Completed,0,Low
+D228,ViewMax 500,64,4.8,8.0,5.9,Yes,Completed,1,Medium
+D229,CropMaster,42,18.1,20.0,7.7,Yes,Completed,1,Medium
+D230,FlyHigh 300,83,2.9,5.0,3.8,No,Completed,0,Low
+D231,SnapShot Mini,90,0.7,1.0,2.6,No,Completed,0,Low
+D232,ViewMax 500,69,5.1,8.0,5.2,Yes,Completed,1,Medium
+D233,FlyHigh 300,82,2.3,5.0,3.5,No,Completed,0,Low
+D234,SnapShot Mini,95,0.5,1.0,2.2,No,Completed,0,Low
+D235,CropMaster,40,18.2,20.0,7.9,Yes,Completed,1,Medium
+D236,SwiftWing,91,1.1,2.0,2.7,No,Completed,0,Low
+D237,SnapShot Mini,97,0.7,1.0,2.4,No,Completed,0,Low
+D238,ViewMax 500,62,5.5,8.0,5.3,Yes,Completed,1,Medium
+D239,CropMaster,38,19.5,20.0,8.1,Yes,Completed,1,Medium
+D241,SnapShot Mini,99,0.2,1.0,1.9,No,Completed,0,Low
+D242,ViewMax 500,70,6.1,8.0,4.8,Yes,Completed,1,Medium
+D243,FlyHigh 300,83,2.7,5.0,3.1,No,Completed,0,Low
+D244,SnapShot Mini,96,0.4,1.0,2.4,No,Completed,0,Low
+D245,CropMaster,41,18.5,20.0,7.9,Yes,Completed,1,Medium
+D246,ViewMax 500,67,5.1,8.0,5.3,Yes,Completed,1,Medium
+D247,SwiftWing,91,1.2,2.0,2.8,No,Completed,0,Low
+D248,SnapShot Mini,94,0.6,1.0,2.5,No,Completed,0,Low
+D249,CropMaster,43,19.2,20.0,7.6,Yes,Completed,1,Medium
+D249,CropMaster,43,19.2,20.0,7.6,Yes,Completed,1,Medium
+D249,CropMaster,43,19.2,20.0,7.6,Yes,Completed,1,Medium
+D249,CropMaster,43,19.2,20.0,7.6,Yes,Completed,1,Medium
+D249,CropMaster,43,19.2,20.0,7.6,Yes,Completed,1,Medium
+D249,CropMaster,43,19.2,20.0,7.6,Yes,Completed,1,Medium
+D250,ViewMax 500,69,4.8,8.0,5.1,Yes,Completed,1,Medium
+D251,FlyHigh 300,85,2.5,5.0,3.4,No,Completed,0,Low
+D252,SnapShot Mini,97,0.3,1.0,2.2,No,Completed,0,Low
+D253,CropMaster,40,17.9,20.0,7.8,Yes,Completed,1,Medium
+D254,ViewMax 500,64,5.4,8.0,5.5,Yes,Completed,1,Medium
+D255,SwiftWing,93,1.1,2.0,2.9,No,Completed,0,Low
+D256,SnapShot Mini,95,0.7,1.0,2.3,No,Completed,0,Low
+D257,CropMaster,42,18.8,20.0,7.7,Yes,Completed,1,Medium
+D258,ViewMax 500,70,4.9,8.0,5.2,Yes,Completed,1,Medium
+D259,FlyHigh 300,88,2.8,5.0,3.3,No,Completed,0,Low
+D260,SnapShot Mini,96,0.5,1.0,2.4,No,Completed,0,Low
+D261,CropMaster,45,17.5,20.0,7.4,Yes,Completed,1,Medium
+D262,ViewMax 500,63,5.2,8.0,5.4,Yes,Completed,1,Medium
+D263,SwiftWing,92,1.3,2.0,2.7,No,Completed,0,Low
+D264,SnapShot Mini,94,0.6,1.0,2.1,No,Completed,0,Low
+D265,CropMaster,44,18.1,20.0,7.8,Yes,Completed,1,Medium
+D266,ViewMax 500,68,4.7,8.0,5.1,Yes,Completed,1,Medium
+D267,FlyHigh 300,87,2.9,5.0,3.2,No,Completed,0,Low
+D268,SnapShot Mini,95,0.4,1.0,2.3,No,Completed,0,Low
+D269,CropMaster,42,19.5,20.0,7.5,Yes,Completed,1,Medium
+D270,ViewMax 500,65,5.5,8.0,5.6,Yes,Completed,1,Medium
+D271,SwiftWing,90,1.2,2.0,2.9,No,Completed,0,Low
+D272,SnapShot Mini,93,0.8,1.0,2.1,No,Completed,0,Low
+D273,CropMaster,47,17.1,20.0,7.2,Yes,Completed,1,Medium
+D274,ViewMax 500,68,4.6,8.0,5.3,Yes,Completed,1,Medium
+D275,FlyHigh 300,86,2.6,5.0,3.5,No,Completed,0,Low
+D276,SnapShot Mini,98,0.3,1.0,2.4,No,Completed,0,Low
+D277,CropMaster,41,18.8,20.0,7.7,Yes,Completed,1,Medium
+D278,ViewMax 500,62,5.3,8.0,5.7,Yes,Completed,1,Medium
+D279,SwiftWing,94,1.4,2.0,2.8,No,Completed,0,Low
+D280,SnapShot Mini,95,0.5,1.0,2.2,No,Completed,0,Low
+D281,CropMaster,46,17.6,20.0,7.3,Yes,Completed,1,Medium
+D282,ViewMax 500,69,4.9,8.0,5.4,Yes,Completed,1,Medium
+D283,FlyHigh 300,89,2.1,5.0,3.1,No,Completed,0,Low
+D284,SnapShot Mini,97,0.7,1.0,2.5,No,Completed,0,Low
+D285,CropMaster,43,18.2,20.0,7.6,Yes,Completed,1,Medium
+D286,ViewMax 500,64,5.5,8.0,5.2,Yes,Completed,1,Medium
+D287,SwiftWing,92,1.3,2.0,2.7,No,Completed,0,Low
+D288,SnapShot Mini,96,0.6,1.0,2.3,No,Completed,0,Low
+D289,CropMaster,40,19.1,20.0,7.9,Yes,Completed,1,Medium
+D290,ViewMax 500,67,4.7,8.0,5.5,Yes,Completed,1,Medium
+D291,FlyHigh 300,87,2.2,5.0,3.4,No,Completed,0,Low
+D292,SnapShot Mini,99,0.4,1.0,2.1,No,Completed,0,Low
+D293,CropMaster,45,17.8,20.0,7.7,Yes,Completed,1,Medium
+D294,ViewMax 500,63,5.1,8.0,5.1,Yes,Completed,1,Medium
+D295,SwiftWing,90,1.5,2.0,2.8,No,Completed,0,Low
+D296,SnapShot Mini,93,0.7,1.0,2.4,No,Completed,0,Low
+D297,CropMaster,44,18.5,20.0,7.5,Yes,Completed,1,Medium
+D298,ViewMax 500,66,4.6,8.0,5.3,Yes,Completed,1,Medium
+D299,FlyHigh 300,86,2.4,5.0,3.2,No,Completed,0,Low
+D300,SnapShot Mini,97,0.2,1.0,2.5,No,Completed,0,Low
+D301,CropMaster,41,17.2,20.0,7.4,Yes,Completed,1,Medium
+D302,ViewMax 500,69,5.1,8.0,5.1,Yes,Completed,1,Medium
+D303,SwiftWing,93,1.1,2.0,2.8,No,Completed,0,Low
+D304,SnapShot Mini,95,0.5,1.0,2.3,No,Completed,0,Low
+D305,CropMaster,44,18.9,20.0,7.7,Yes,Completed,1,Medium
+D306,ViewMax 500,67,4.8,8.0,5.4,Yes,Completed,1,Medium
+D307,FlyHigh 300,88,2.7,5.0,3.5,No,Completed,0,Low
+D308,SnapShot Mini,96,0.3,1.0,2.1,No,Completed,0,Low
+D309,CropMaster,42,19.3,20.0,7.6,Yes,Completed,1,Medium
+D310,ViewMax 500,65,5.6,8.0,5.2,Yes,Completed,1,Medium
+D311,SwiftWing,91,1.4,2.0,2.9,No,Completed,0,Low
+D312,SnapShot Mini,94,0.9,1.0,2.3,No,Completed,0,Low
+D313,CropMaster,47,17.5,20.0,7.1,Yes,Completed,1,Medium
+D314,ViewMax 500,68,4.7,8.0,5.5,Yes,Completed,1,Medium
+D315,FlyHigh 300,83,2.3,5.0,3.4,No,Completed,0,Low
+D316,SnapShot Mini,97,0.2,1.0,2.2,No,Completed,0,Low
+D317,CropMaster,40,18.1,20.0,7.8,Yes,Completed,1,Medium
+D318,ViewMax 500,62,5.4,8.0,5.7,Yes,Completed,1,Medium
+D319,SwiftWing,92,1.5,2.0,2.9,No,Completed,0,Low
+D320,SnapShot Mini,94,0.6,1.0,2.1,No,Completed,0,Low
+D321,CropMaster,45,17.8,20.0,7.3,Yes,Completed,1,Medium
+D322,ViewMax 500,69,4.9,8.0,5.4,Yes,Completed,1,Medium
+D323,FlyHigh 300,84,2.6,5.0,3.2,No,Completed,0,Low
+D324,SnapShot Mini,97,0.3,1.0,2.4,No,Completed,0,Low
+D325,CropMaster,40,19.1,20.0,7.9,Yes,Completed,1,Medium
+D326,ViewMax 500,63,5.5,8.0,5.1,Yes,Completed,1,Medium
+D327,SwiftWing,90,1.2,2.0,2.8,No,Completed,0,Low
+D328,SnapShot Mini,93,0.7,1.0,2.5,No,Completed,0,Low
+D329,CropMaster,42,17.9,20.0,7.6,Yes,Completed,1,Medium
+D330,ViewMax 500,69,4.8,8.0,5.3,Yes,Completed,1,Medium
+D331,FlyHigh 300,85,2.9,5.0,3.4,No,Completed,0,Low
+D332,SnapShot Mini,97,0.5,1.0,2.2,No,Completed,0,Low
+D333,CropMaster,40,18.8,20.0,7.8,Yes,Completed,1,Medium
+D334,ViewMax 500,64,5.2,8.0,5.5,Yes,Completed,1,Medium
+D335,SwiftWing,93,1.1,2.0,2.9,No,Completed,0,Low
+D336,SnapShot Mini,95,0.7,1.0,2.3,No,Completed,0,Low
+D245,CropMaster,41,18.5,20.0,7.9,Yes,Completed,1,Medium
+D246,ViewMax 500,67,5.1,8.0,5.3,Yes,Completed,1,Medium
+D247,SwiftWing,91,1.2,2.0,2.8,No,Completed,0,Low
+D248,SnapShot Mini,94,0.6,1.0,2.5,No,Completed,0,Low
+D249,CropMaster,43,19.2,20.0,7.6,Yes,Completed,1,Medium
+D337,CropMaster,42,17.5,20.0,7.7,Yes,Completed,1,Medium
+D338,ViewMax 500,70,4.9,8.0,5.2,Yes,Completed,1,Medium
+D339,FlyHigh 300,88,2.8,5.0,3.3,No,Completed,0,Low
+D340,SnapShot Mini,96,0.5,1.0,2.4,No,Completed,0,Low
+D341,CropMaster,45,18.1,20.0,7.4,Yes,Completed,1,Medium
+D342,ViewMax 500,63,5.2,8.0,5.4,Yes,Completed,1,Medium
+D343,SwiftWing,92,1.3,2.0,2.7,No,Completed,0,Low
+D344,SnapShot Mini,94,0.6,1.0,2.1,No,Completed,0,Low
+D345,CropMaster,44,17.5,20.0,7.8,Yes,Completed,1,Medium
+D346,ViewMax 500,68,4.7,8.0,5.1,Yes,Completed,1,Medium
+D347,FlyHigh 300,87,2.9,5.0,3.2,No,Completed,0,Low
+D348,SnapShot Mini,95,0.4,1.0,2.3,No,Completed,0,Low
+D349,CropMaster,42,19.2,20.0,7.5,Yes,Completed,1,Medium
+D350,ViewMax 500,65,5.5,8.0,5.6,Yes,Completed,1,Medium
+D351,SwiftWing,90,1.2,2.0,2.9,No,Completed,0,Low
+D352,SnapShot Mini,93,0.8,1.0,2.1,No,Completed,0,Low
+D353,CropMaster,47,17.1,20.0,7.2,Yes,Completed,1,Medium
+D354,ViewMax 500,68,4.6,8.0,5.3,Yes,Completed,1,Medium
+D355,FlyHigh 300,86,2.6,5.0,3.5,No,Completed,0,Low
+D356,SnapShot Mini,98,0.3,1.0,2.4,No,Completed,0,Low
+D357,CropMaster,41,18.8,20.0,7.7,Yes,Completed,1,Medium
+D358,ViewMax 500,62,5.3,8.0,5.7,Yes,Completed,1,Medium
+D359,SwiftWing,94,1.4,2.0,2.8,No,Completed,0,Low
+D360,SnapShot Mini,95,0.5,1.0,2.2,No,Completed,0,Low
+D361,CropMaster,46,17.6,20.0,7.3,Yes,Completed,1,Medium
+D362,ViewMax 500,69,4.9,8.0,5.4,Yes,Completed,1,Medium
+D363,FlyHigh 300,89,2.1,5.0,3.1,No,Completed,0,Low
+D364,SnapShot Mini,97,0.7,1.0,2.5,No,Completed,0,Low
+D365,CropMaster,43,18.2,20.0,7.6,Yes,Completed,1,Medium
+D366,ViewMax 500,64,5.5,8.0,5.2,Yes,Completed,1,Medium
+D367,SwiftWing,92,1.3,2.0,2.7,No,Completed,0,Low
+D368,SnapShot Mini,96,0.6,1.0,2.3,No,Completed,0,Low
+D369,CropMaster,40,19.1,20.0,7.9,Yes,Completed,1,Medium
+D370,ViewMax 500,67,4.7,8.0,5.5,Yes,Completed,1,Medium
+D371,FlyHigh 300,87,2.2,5.0,3.4,No,Completed,0,Low
+D372,SnapShot Mini,99,0.4,1.0,2.1,No,Completed,0,Low
+D373,CropMaster,45,17.8,20.0,7.7,Yes,Completed,1,Medium
+D374,ViewMax 500,63,5.1,8.0,5.1,Yes,Completed,1,Medium
+D375,SwiftWing,90,1.5,2.0,2.8,No,Completed,0,Low
+D376,SnapShot Mini,93,0.7,1.0,2.4,No,Completed,0,Low
+D377,CropMaster,44,18.5,20.0,7.5,Yes,Completed,1,Medium
+D378,ViewMax 500,66,4.6,8.0,5.3,Yes,Completed,1,Medium
+D379,FlyHigh 300,86,2.4,5.0,3.2,No,Completed,0,Low
+D380,SnapShot Mini,97,0.2,1.0,2.5,No,Completed,0,Low
+D381,CropMaster,41,17.2,20.0,7.4,Yes,Completed,1,Medium
+D382,ViewMax 500,69,5.1,8.0,5.1,Yes,Completed,1,Medium
+D383,SwiftWing,93,1.1,2.0,2.8,No,Completed,0,Low
+D384,SnapShot Mini,95,0.5,1.0,2.3,No,Completed,0,Low
+D385,CropMaster,44,18.9,20.0,7.7,Yes,Completed,1,Medium
+D386,ViewMax 500,67,4.8,8.0,5.4,Yes,Completed,1,Medium
+D387,FlyHigh 300,88,2.7,5.0,3.5,No,Completed,0,Low
+D388,SnapShot Mini,96,0.3,1.0,2.1,No,Completed,0,Low
+D389,CropMaster,42,19.3,20.0,7.6,Yes,Completed,1,Medium
+D390,ViewMax 500,65,5.6,8.0,5.2,Yes,Completed,1,Medium
+D391,SwiftWing,91,1.4,2.0,2.9,No,Completed,0,Low
+D392,SnapShot Mini,94,0.9,1.0,2.3,No,Completed,0,Low
+D393,CropMaster,47,17.5,20.0,7.1,Yes,Completed,1,Medium
+D394,ViewMax 500,68,4.7,8.0,5.5,Yes,Completed,1,Medium
+D395,FlyHigh 300,83,2.3,5.0,3.4,No,Completed,0,Low
+D396,SnapShot Mini,97,0.2,1.0,2.2,No,Completed,0,Low
+D397,CropMaster,40,18.1,20.0,7.8,Yes,Completed,1,Medium
+D398,ViewMax 500,62,5.4,8.0,5.7,Yes,Completed,1,Medium
+D399,SwiftWing,92,1.5,2.0,2.9,No,Completed,0,Low
+D400,SnapShot Mini,94,0.6,1.0,2.1,No,Completed,0,Low
+D401,CropMaster,45,17.8,20.0,7.3,Yes,Completed,1,Medium
+D402,ViewMax 500,69,4.9,8.0,5.4,Yes,Completed,1,Medium
+D403,FlyHigh 300,84,2.6,5.0,3.2,No,Completed,0,Low
+D404,SnapShot Mini,97,0.3,1.0,2.4,No,Completed,0,Low
+D405,CropMaster,42,19.1,20.0,7.5,Yes,Completed,1,Medium
+D406,ViewMax 500,65,5.5,8.0,5.6,Yes,Completed,1,Medium
+D407,SwiftWing,90,1.2,2.0,2.9,No,Completed,0,Low
+D408,SnapShot Mini,93,0.8,1.0,2.1,No,Completed,0,Low
+D409,CropMaster,47,17.1,20.0,7.2,Yes,Completed,1,Medium
+D410,ViewMax 500,68,4.6,8.0,5.3,Yes,Completed,1,Medium
+D411,FlyHigh 300,83,2.3,5.0,3.4,No,Completed,0,Low
+D412,SnapShot Mini,97,0.2,1.0,2.2,No,Completed,0,Low
+D413,CropMaster,40,18.8,20.0,7.8,Yes,Completed,1,Medium
+D414,ViewMax 500,62,5.4,8.0,5.7,Yes,Completed,1,Medium
+D415,SwiftWing,92,1.5,2.0,2.9,No,Completed,0,Low
+D416,SnapShot Mini,94,0.6,1.0,2.1,No,Completed,0,Low
+D417,CropMaster,45,17.8,20.0,7.3,Yes,Completed,1,Medium
+D418,ViewMax 500,69,4.9,8.0,5.4,Yes,Completed,1,Medium
+D419,FlyHigh 300,84,2.6,5.0,3.2,No,Completed,0,Low
+D420,SnapShot Mini,97,0.3,1.0,2.4,No,Completed,0,Low
+D421,CropMaster,40,19.1,20.0,7.9,Yes,Completed,1,Medium
+D422,ViewMax 500,63,5.5,8.0,5.1,Yes,Completed,1,Medium
+D423,SwiftWing,91,1.2,2.0,2.8,No,Completed,0,Low
+D424,SnapShot Mini,94,0.6,1.0,2.5,No,Completed,0,Low
+D425,CropMaster,43,19.2,20.0,7.6,Yes,Completed,1,Medium
+D426,ViewMax 500,69,4.8,8.0,5.1,Yes,Completed,1,Medium
+D427,FlyHigh 300,85,2.5,5.0,3.4,No,Completed,0,Low
+D428,SnapShot Mini,97,0.3,1.0,2.2,No,Completed,0,Low
+D429,CropMaster,40,17.9,20.0,7.8,Yes,Completed,1,Medium
+D430,ViewMax 500,64,5.4,8.0,5.5,Yes,Completed,1,Medium
+D431,SwiftWing,93,1.1,2.0,2.9,No,Completed,0,Low
+D432,SnapShot Mini,95,0.7,1.0,2.3,No,Completed,0,Low
+D433,CropMaster,42,18.8,20.0,7.7,Yes,Completed,1,Medium
+D434,ViewMax 500,70,4.9,8.0,5.2,Yes,Completed,1,Medium
+D435,FlyHigh 300,88,2.8,5.0,3.3,No,Completed,0,Low
+D436,SnapShot Mini,96,0.5,1.0,2.4,No,Completed,0,Low
+D437,CropMaster,45,17.5,20.0,7.4,Yes,Completed,1,Medium
+D438,ViewMax 500,63,5.2,8.0,5.4,Yes,Completed,1,Medium
+D439,SwiftWing,92,1.3,2.0,2.7,No,Completed,0,Low
+D440,SnapShot Mini,94,0.6,1.0,2.1,No,Completed,0,Low
+D441,CropMaster,44,18.1,20.0,7.8,Yes,Completed,1,Medium
+D442,ViewMax 500,68,4.7,8.0,5.1,Yes,Completed,1,Medium
+D443,FlyHigh 300,87,2.9,5.0,3.2,No,Completed,0,Low
+D444,SnapShot Mini,95,0.4,1.0,2.3,No,Completed,0,Low
+D445,CropMaster,42,19.5,20.0,7.5,Yes,Completed,1,Medium
+D446,ViewMax 500,65,5.5,8.0,5.6,Yes,Completed,1,Medium
+D447,SwiftWing,90,1.2,2.0,2.9,No,Completed,0,Low
+D448,SnapShot Mini,93,0.8,1.0,2.1,No,Completed,0,Low
+D449,CropMaster,47,17.1,20.0,7.2,Yes,Completed,1,Medium
+D450,ViewMax 500,68,4.6,8.0,5.3,Yes,Completed,1,Medium
+D451,FlyHigh 300,86,2.6,5.0,3.5,No,Completed,0,Low
+D452,SnapShot Mini,98,0.3,1.0,2.4,No,Completed,0,Low
+D453,CropMaster,41,18.8,20.0,7.7,Yes,Completed,1,Medium
+D454,ViewMax 500,62,5.3,8.0,5.7,Yes,Completed,1,Medium
+D455,SwiftWing,94,1.4,2.0,2.8,No,Completed,0,Low
+D456,SnapShot Mini,95,0.5,1.0,2.2,No,Completed,0,Low
+D457,CropMaster,46,17.6,20.0,7.3,Yes,Completed,1,Medium
+D458,ViewMax 500,69,4.9,8.0,5.4,Yes,Completed,1,Medium
+D459,FlyHigh 300,89,2.1,5.0,3.1,No,Completed,0,Low
+D460,SnapShot Mini,97,0.7,1.0,2.5,No,Completed,0,Low
+D461,CropMaster,43,18.2,20.0,7.6,Yes,Completed,1,Medium
+D462,ViewMax 500,64,5.5,8.0,5.2,Yes,Completed,1,Medium
+D463,SwiftWing,92,1.3,2.0,2.7,No,Completed,0,Low
+D464,SnapShot Mini,96,0.6,1.0,2.3,No,Completed,0,Low
+D465,CropMaster,40,19.1,20.0,7.9,Yes,Completed,1,Medium
+D466,ViewMax 500,67,4.7,8.0,5.5,Yes,Completed,1,Medium
+D467,FlyHigh 300,87,2.9,5.0,3.2,No,Completed,0,Low
+D468,SnapShot Mini,95,0.4,1.0,2.3,No,Completed,0,Low
+D469,CropMaster,42,19.5,20.0,7.5,Yes,Completed,1,Medium
+D470,ViewMax 500,65,5.5,8.0,5.6,Yes,Completed,1,Medium
+D471,SwiftWing,90,1.2,2.0,2.9,No,Completed,0,Low
+D472,SnapShot Mini,93,0.8,1.0,2.1,No,Completed,0,Low
+D473,CropMaster,47,17.1,20.0,7.2,Yes,Completed,1,Medium
+D474,ViewMax 500,68,4.6,8.0,5.3,Yes,Completed,1,Medium
+D475,FlyHigh 300,86,2.6,5.0,3.5,No,Completed,0,Low
+D476,SnapShot Mini,98,0.3,1.0,2.4,No,Completed,0,Low
+D477,CropMaster,41,18.8,20.0,7.7,Yes,Completed,1,Medium
+D478,ViewMax 500,62,5.3,8.0,5.7,Yes,Completed,1,Medium
+D479,SwiftWing,94,1.4,2.0,2.8,No,Completed,0,Low
+D480,SnapShot Mini,95,0.5,1.0,2.2,No,Completed,0,Low
+D481,CropMaster,46,17.6,20.0,7.3,Yes,Completed,1,Medium
+D482,ViewMax 500,69,4.9,8.0,5.4,Yes,Completed,1,Medium
+D483,FlyHigh 300,89,2.1,5.0,3.1,No,Completed,0,Low
+D484,SnapShot Mini,97,0.7,1.0,2.5,No,Completed,0,Low
+D485,CropMaster,43,18.2,20.0,7.6,Yes,Completed,1,Medium
+D486,ViewMax 500,64,5.5,8.0,5.2,Yes,Completed,1,Medium
+D487,SwiftWing,92,1.3,2.0,2.7,No,Completed,0,Low
+D488,SnapShot Mini,96,0.6,1.0,2.3,No,Completed,0,Low
+D489,CropMaster,40,19.1,20.0,7.9,Yes,Completed,1,Medium
+D490,ViewMax 500,67,4.7,8.0,5.5,Yes,Completed,1,Medium
+D491,FlyHigh 300,87,2.2,5.0,3.4,No,Completed,0,Low
+D492,SnapShot Mini,99,0.4,1.0,2.1,No,Completed,0,Low
+D493,CropMaster,45,17.8,20.0,7.7,Yes,Completed,1,Medium
+D494,ViewMax 500,63,5.1,8.0,5.1,Yes,Completed,1,Medium
+D495,SwiftWing,90,1.5,2.0,2.8,No,Completed,0,Low
+D496,SnapShot Mini,93,0.7,1.0,2.4,No,Completed,0,Low
+D497,CropMaster,44,18.5,20.0,7.5,Yes,Completed,1,Medium
+D498,ViewMax 500,66,4.6,8.0,5.3,Yes,Completed,1,Medium
+D499,FlyHigh 300,86,2.4,5.0,3.2,No,Completed,0,Low
+D500,SnapShot Mini,97,0.2,1.0,2.5,No,Completed,0,Low
+D501,CropMaster,41,17.2,20.0,7.4,Yes,Completed,1,Medium
+D502,ViewMax 500,69,5.1,8.0,5.1,Yes,Completed,1,Medium
+D503,SwiftWing,93,1.1,2.0,2.8,No,Completed,0,Low
+D504,SnapShot Mini,95,0.5,1.0,2.3,No,Completed,0,Low
+D505,CropMaster,44,18.9,20.0,7.7,Yes,Completed,1,Medium
+D506,ViewMax 500,67,4.8,8.0,5.4,Yes,Completed,1,Medium
+D507,FlyHigh 300,88,2.7,5.0,3.5,No,Completed,0,Low
+D508,SnapShot Mini,96,0.3,1.0,2.1,No,Completed,0,Low
+D509,CropMaster,42,19.3,20.0,7.6,Yes,Completed,1,Medium
+D510,ViewMax 500,65,5.6,8.0,5.2,Yes,Completed,1,Medium
+D511,SwiftWing,91,1.4,2.0,2.9,No,Completed,0,Low
+D512,SnapShot Mini,94,0.9,1.0,2.3,No,Completed,0,Low
+D513,CropMaster,47,17.5,20.0,7.1,Yes,Completed,1,Medium
+D514,ViewMax 500,68,4.7,8.0,5.5,Yes,Completed,1,Medium
+D515,FlyHigh 300,83,2.3,5.0,3.4,No,Completed,0,Low
+D516,SnapShot Mini,97,0.2,1.0,2.2,No,Completed,0,Low
+D517,CropMaster,40,18.1,20.0,7.8,Yes,Completed,1,Medium
+D518,ViewMax 500,62,5.4,8.0,5.7,Yes,Completed,1,Medium
+D619,SwiftWing,92,1.5,2.0,2.9,No,Completed,0,Low
+D519,SwiftWing,92,1.5,2.0,2.9,No,Completed,0,Low
+D520,SnapShot Mini,94,0.6,1.0,2.1,No,Completed,0,Low
+D521,CropMaster,45,17.8,20.0,7.3,Yes,Completed,1,Medium
+D522,ViewMax 500,69,4.9,8.0,5.4,Yes,Completed,1,Medium
+D742,SnapShot Mini,95,0.4,1.0,2.2,No,Completed,0,Low
+D743,CropMaster,42,18.1,20.0,7.6,Yes,Completed,1,Medium
+D744,ViewMax 500,66,5.2,8.0,5.1,Yes,Completed,1,Medium
+D745,SwiftWing,92,1.3,2.0,2.7,No,Completed,0,Low
+D746,SnapShot Mini,94,0.7,1.0,2.3,No,Completed,0,Low
+D747,CropMaster,44,18.8,20.0,7.7,Yes,Completed,1,Medium
+D748,ViewMax 500,68,4.9,8.0,5.2,Yes,Completed,1,Medium
+D819,SwiftWing,92,1.5,2.0,12.9,No,Completed,0,Low
+D749,FlyHigh 300,88,2.8,5.0,3.3,No,Completed,0,Low
+D750,SnapShot Mini,96,0.5,1.0,2.4,No,Completed,0,Low
+D751,CropMaster,45,17.5,20.0,7.4,Yes,Completed,1,Medium
+D752,ViewMax 500,63,5.2,8.0,5.4,Yes,Completed,1,Medium
